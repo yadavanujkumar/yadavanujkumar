@@ -1,4 +1,4 @@
-# Hi there, I'm Anuj Yadav! 👋
+# Hi there, I'm Anujkumar Yadav! 👋
 
 Welcome to my GitHub profile! I'm a passionate developer with a love for coding and problem-solving. Currently i am enrolled in Masters Program specializing in Big Data Analytics.
 
@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for coding 
 - **Database:** MySql, Firebase, MongoDB
 - **Frameworks:** Django, .Net, Unity
 - **Tools:** Git, Docker, VS Code, Jupyteer Notebook, Slack
-- **Cloud:** AWS
+- **Cloud:** AWS, Azure
 - **Additional:** DSA, AI/ML 
 
 <!-- ## 🚀 Projects
