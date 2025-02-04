@@ -1,10 +1,10 @@
 # Hi there, I'm Anuj Yadav! 👋
 
-Welcome to my GitHub profile! I'm a passionate developer with a love for coding and problem-solving.
+Welcome to my GitHub profile! I'm a passionate developer with a love for coding and problem-solving. Currently i am enrolled in Masters Program specializing in Big Data Analytics.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=yadavanujkumar&color=brightgreen)
 
-## 🔧 Technologies & Tools
+## 🔧 Technologies & Tools known
 - **Languages:** Python, JavaScript, C++, Java, SQL
 - **Database:** MySql, Firebase, MongoDB
 - **Frameworks:** Django, .Net, Unity
