@@ -1,6 +1,6 @@
-# Hi there, I'm Anujkumar Yadav! 👋
+# Hello Ji, Waddup, I'm Anuj! 🤝
 
-Welcome to my GitHub profile! I'm a passionate developer with a love for coding and problem-solving. Currently i am enrolled in Masters Program specializing in Big Data Analytics.
+Welcome to my profile! I'm a passionate developer and enthusiast Learner. Currently i am enrolled in Masters Program specializing in Big Data Analytics.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=yadavanujkumar&color=brightgreen)
 
