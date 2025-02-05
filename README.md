@@ -53,8 +53,6 @@ Feel free to reach out if you want to collaborate on a project, or just want to 
 - **Photography**: Capturing moments and landscapes.
 - **Traveling**: Exploring new cultures and places.
 
-## 📜 License
-This profile README is licensed under the [MIT License](LICENSE).
 
 ---
 
