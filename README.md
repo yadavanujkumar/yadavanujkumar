@@ -21,6 +21,12 @@ Welcome to my profile! I'm a passionate developer and enthusiast Learner. Curren
 ## 📈 GitHub Stats
 ![Anuj's GitHub stats](https://github-readme-stats.vercel.app/api?username=yadavanujkumar&show_icons=true&theme=radical)
 
+## 🏆 GitHub Trophies
+![trophy](https://github-profile-trophy.vercel.app/?username=yadavanujkumar)
+
+## 🔥 GitHub Streak
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yadavanujkumar&theme=dark)](https://git.io/streak-stats)
 <!--
 ## 🏆 Achievements
 - **Hackathon Winner**: Won the XYZ Hackathon for developing an innovative solution in fintech.
