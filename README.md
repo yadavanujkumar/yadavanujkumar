@@ -12,9 +12,9 @@ Welcome to my profile! I'm a passionate developer and enthusiast Learner. Curren
 - **Cloud:** AWS, Azure
 - **Additional:** DSA, AI/ML 
 
-
+<!--
 ## 📈 GitHub Stats
-![Anuj's GitHub stats](https://github-readme-stats.vercel.app/api?username=yadavanujkumar&show_icons=true&theme=radical)
+![Anuj's GitHub stats](https://github-readme-stats.vercel.app/api?username=yadavanujkumar&show_icons=true&theme=radical) -->
 <!--
 ## 🏆 GitHub Trophies
 ![trophy](https://github-profile-trophy.vercel.app/?username=yadavanujkumar) -->
