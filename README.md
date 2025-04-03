@@ -2,7 +2,7 @@
 
 Welcome to my profile! I'm a passionate developer and enthusiast Learner. Currently i am enrolled in Masters Program specializing in Big Data Analytics.
 
-![Profile Views](https://komarev.com/ghpvc/?username=yadavanujkumar&color=brightgreen)
+<!-- ![Profile Views](https://komarev.com/ghpvc/?username=yadavanujkumar&color=brightgreen) -->
 
 ## 🔧 Technologies & Tools known
 - **Languages:** Python, JavaScript, C++, Java, SQL
@@ -12,27 +12,17 @@ Welcome to my profile! I'm a passionate developer and enthusiast Learner. Curren
 - **Cloud:** AWS, Azure
 - **Additional:** DSA, AI/ML 
 
-<!-- ## 🚀 Projects
-- [Project 1](https://github.com/yadavanujkumar/project1): A brief description of what this project does.
-- [Project 2](https://github.com/yadavanujkumar/project2): A brief description of what this project does.
-- [Project 3](https://github.com/yadavanujkumar/project3): A brief description of what this project does.
--->
 
 ## 📈 GitHub Stats
 ![Anuj's GitHub stats](https://github-readme-stats.vercel.app/api?username=yadavanujkumar&show_icons=true&theme=radical)
-
+<!--
 ## 🏆 GitHub Trophies
-![trophy](https://github-profile-trophy.vercel.app/?username=yadavanujkumar)
-
+![trophy](https://github-profile-trophy.vercel.app/?username=yadavanujkumar) -->
+<!--
 ## 🔥 GitHub Streak
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yadavanujkumar&theme=dark)](https://git.io/streak-stats)
-<!--
-## 🏆 Achievements
-- **Hackathon Winner**: Won the XYZ Hackathon for developing an innovative solution in fintech.
-- **Open Source Contributor**: Contributed to several open-source projects including [Project A](https://github.com/open-source/projectA) and [Project B](https://github.com/open-source/projectB).
-- **Certification**: AWS Certified Solutions Architect
--->
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yadavanujkumar&theme=dark)](https://git.io/streak-stats) -->
+
 
 ## 📫 Contact Me
 - **Email:** yadavanujkumar9@gmail.com
@@ -40,11 +30,11 @@ Welcome to my profile! I'm a passionate developer and enthusiast Learner. Curren
 - **LinkedIn:** [Anuj Yadav](https://www.linkedin.com/in/yadavanujkumar/)
 - **Twitter:** [@yadavanujkumar](https://twitter.com/yadavanujkumar)
 -->
-
+<!--
 ## 🌱 Currently Learning
 - Machine Learning
 - Cloud Computing
-
+-->
 ## 💬 Let's Connect
 Feel free to reach out if you want to collaborate on a project, or just want to chat about tech!
 
