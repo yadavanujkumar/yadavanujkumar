@@ -2,10 +2,10 @@
 
 Welcome to my profile! I'm a passionate developer and enthusiast Learner. Currently i am enrolled in Masters Program specializing in Big Data Analytics.
 
-<!-- ![Profile Views](https://komarev.com/ghpvc/?username=yadavanujkumar&color=brightgreen) -->
+![Profile Views](https://komarev.com/ghpvc/?username=yadavanujkumar&color=brightgreen) 
 
 ## 🔧 Technologies & Tools known
-- **Languages:** Python, JavaScript, C++, Java, SQL
+- **Languages:** Python, JavaScript, C++, Java, SQL, HTML, CSS
 - **Database:** MySql, Firebase, MongoDB
 - **Frameworks:** Django, .Net, Unity
 - **Tools:** Git, Docker, VS Code, Jupyteer Notebook, Slack
