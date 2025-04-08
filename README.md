@@ -1,6 +1,9 @@
 # Hello Ji, Waddup, I'm Anuj! 🤝
 
-Welcome to my profile! I'm a passionate developer and enthusiast Learner. Currently i am enrolled in Masters Program specializing in Big Data Analytics.
+Welcome to my profile! I'm a lazy developer and enthusiast Learner. Currently i am enrolled in Masters Program specializing in Big Data Analytics.
+You can checkout my website Below 👇
+
+(https://yadavanujkumar.github.io/portfolio/)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=yadavanujkumar&color=brightgreen) 
 
