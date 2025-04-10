@@ -1,6 +1,6 @@
 # Hello Ji, Waddup, I'm Anuj! 🤝
 
-Welcome to my profile! I'm a lazy developer and enthusiast Learner. Currently i am enrolled in Masters Program specializing in Big Data Analytics.
+Welcome to my profile! I'm a lazy developer and enthusiast Learner. I like to capture moments and travel sometimes.
 You can checkout my website by clicking Below 👇
 
 [Portfolio Site](https://yadavanujkumar.github.io/portfolio/)
@@ -47,12 +47,12 @@ Feel free to reach out if you want to collaborate on a project, or just want to 
 - [Understanding Docker and Kubernetes](https://medium.com/@yadavanujkumar/understanding-docker-and-kubernetes-e5f6g7h8)
 - [Exploring Machine Learning Algorithms](https://medium.com/@yadavanujkumar/exploring-machine-learning-algorithms-i9j0k1l2)
 -->
-
+<!--
 ## 🎨 Hobbies & Interests
 - **Photography**: Capturing moments and landscapes.
 - **Traveling**: Exploring new cultures and places.
 
-
+-->
 ---
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yadavanujkumar&layout=compact&theme=radical)
