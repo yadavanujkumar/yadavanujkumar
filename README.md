@@ -4,9 +4,9 @@ Welcome to my profile! I'm a lazy developer and enthusiast Learner. I like to ca
 You can checkout my website by clicking Below 👇
 
 [Portfolio Site](https://yadavanujkumar.github.io/portfolio/)
-
+<!--
 ![Profile Views](https://komarev.com/ghpvc/?username=yadavanujkumar&color=brightgreen) 
-
+-->
 ## 🔧 Technologies & Tools known
 - **Languages:** Python, JavaScript, C++, Java, SQL, HTML, CSS
 - **Database:** MySql, Firebase, MongoDB
@@ -52,7 +52,7 @@ Feel free to reach out if you want to collaborate on a project, or just want to 
 - **Photography**: Capturing moments and landscapes.
 - **Traveling**: Exploring new cultures and places.
 
--->
 ---
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yadavanujkumar&layout=compact&theme=radical)
+-->
