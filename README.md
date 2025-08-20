@@ -1,3 +1,15 @@
+<!-- Animated Coding SVG -->
+<p align="center">
+  <svg viewBox="0 0 400 150" fill="none" xmlns="http://www.w3.org/2000/svg" width="400" height="150">
+    <rect width="400" height="150" fill="#282c34"/>
+    <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" font-size="40" fill="#61dafb" font-family="monospace">
+      Coding...
+    </text>
+    <circle cx="200" cy="100" r="10" fill="#61dafb">
+      <animate attributeName="r" values="10;15;10" dur="1s" repeatCount="indefinite" />
+    </circle>
+  </svg>
+</p>
 # Hello Ji, Waddup, I'm Anuj! 🤝
 
 Welcome to my profile! I'm a lazy developer and enthusiast Learner. I like to capture moments and travel sometimes.
