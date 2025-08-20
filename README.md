@@ -10,7 +10,9 @@
     </circle>
   </svg>
 </p>
-# Hello Ji, Waddup, I'm Anuj! 🤝
+
+
+#Hello Ji, Waddup, I'm Anuj! 🤝
 
 Welcome to my profile! I'm a lazy developer and enthusiast Learner. I like to capture moments and travel sometimes.
 You can checkout my website by clicking Below 👇
