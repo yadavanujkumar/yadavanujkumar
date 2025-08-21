@@ -13,25 +13,9 @@ You can checkout my website by clicking Below 👇
 <!--
 ![Profile Views](https://komarev.com/ghpvc/?username=yadavanujkumar&color=brightgreen) 
 -->
-## 🔧 Technologies & Tools known
-- **Languages:** Python, JavaScript, C++, Java, SQL, HTML, CSS
-- **Database:** MySql, Firebase, MongoDB
-- **Frameworks:** Django, .Net, Unity
-- **Tools:** Git, Docker, VS Code, Jupyteer Notebook, Slack
-- **Cloud:** AWS, Azure
-- **Additional:** DSA, AI/ML 
-
 
 ## 📈 GitHub Stats
 ![Anuj's GitHub stats](https://github-readme-stats.vercel.app/api?username=yadavanujkumar&show_icons=true&theme=radical) 
-
-## 🏆 GitHub Trophies
-![trophy](https://github-profile-trophy.vercel.app/?username=yadavanujkumar)
-
-## 🔥 GitHub Streak
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yadavanujkumar&theme=dark)](https://git.io/streak-stats)
-
 
 ## 📫 Contact Me
 - **Email:** yadavanujkumar9@gmail.com
