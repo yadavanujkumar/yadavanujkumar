@@ -14,9 +14,6 @@ You can checkout my website by clicking Below 👇
 ![Profile Views](https://komarev.com/ghpvc/?username=yadavanujkumar&color=brightgreen) 
 -->
 
-## 📈 GitHub Stats
-![Anuj's GitHub stats](https://github-readme-stats.vercel.app/api?username=yadavanujkumar&show_icons=true&theme=radical) 
-
 ## 📫 Contact Me
 - **Email:** yadavanujkumar9@gmail.com
 <!-- 
