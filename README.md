@@ -1,7 +1,9 @@
 <!-- Animated banner -->
+
 <p align="center">
-  <img src="./banner.svg" alt="Anuj the Coder Animated Banner" />
+  <img src="https://raw.githubusercontent.com/yadavanujkumar/yadavanujkumar/main/banner.svg" alt="Anuj the Coder Animated Banner"/>
 </p>
+
 
 ## Hello Ji, Waddup, I'm Anuj! 🤝
 
