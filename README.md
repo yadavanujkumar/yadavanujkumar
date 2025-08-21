@@ -1,9 +1,8 @@
 <!-- Animated banner -->
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/yadavanujkumar/yadavanujkumar/main/coding.gif" alt="Anuj the Coder Animated Banner"/>
+  <img src="[https://raw.githubusercontent.com/yadavanujkumar/yadavanujkumar/main/coding.gif](https://github.com/yadavanujkumar/yadavanujkumar/blob/main/coding.gif)" alt="Anuj the Coder Animated Banner"/>
 </p>
-coding.gif
 
 ## Hello Ji, Waddup, I'm Anuj! 🤝
 
