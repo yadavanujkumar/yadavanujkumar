@@ -1,5 +1,8 @@
 <!-- Animated banner -->
-<div align="center">…SVG FROM ABOVE…</div>
+<p align="center">
+  <img src="./banner.svg" alt="Anuj the Coder Animated Banner" />
+</p>
+
 ## Hello Ji, Waddup, I'm Anuj! 🤝
 
 Welcome to my profile! I'm a lazy developer and enthusiast Learner. I like to capture moments and travel sometimes.
