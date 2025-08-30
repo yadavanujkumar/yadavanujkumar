@@ -16,7 +16,7 @@
 
 <p align="center">
   <strong>👋 Hi there! I'm Anuj Kumar, a passionate developer and lifelong learner.</strong><br>
-  <em>Capturing moments, exploring places, and writing code that solves problems.</em>
+  <em>Capturing moments, exploring places, and writing code that solves my problems.</em>
 </p>
 
 <p align="center">
