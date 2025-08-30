@@ -47,20 +47,10 @@
 
 ---
 
-## 📚 Featured Projects
-
-- [linkedin-scraper](https://github.com/yadavanujkumar/linkedin-scraper): Find LinkedIn profiles by role and export to CSV/JSON.
-- [Portfolio Website](https://yadavanujkumar.github.io/portfolio/): My personal showcase.
-- More at [my GitHub repositories](https://github.com/yadavanujkumar?tab=repositories).
-
----
 
 ## 📬 Contact Me
 - **Email:** yadavanujkumar9@gmail.com  
-- <!-- **LinkedIn:** [Anuj Yadav](https://www.linkedin.com/in/yadavanujkumar/) -->
-- <!-- **Twitter:** [@yadavanujkumar](https://twitter.com/yadavanujkumar) -->
 
----
 
 ## 🏆 GitHub Trophies
 <p align="center">
@@ -69,13 +59,6 @@
 
 ---
 
-## 📊 GitHub Stats
-<div align="center">
-  <img width="48%" src="https://github-readme-streak-stats-eight.vercel.app/?user=yadavanujkumar&theme=react&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=yadavanujkumar&show_icons=true&theme=react&hide_border=true" />
-</div>
-
----
 
 ## 🌐 Top Languages
 <p align="center">
@@ -83,43 +66,3 @@
 </p>
 
 ---
-
-## 📈 Contribution Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yadavanujkumar&theme=react-dark" alt="Contribution Graph" />
-</p>
-
----
-
-## 🐍 Contribution Snake
-<p align="center">
-  <img src="https://github.com/yadavanujkumar/yadavanujkumar/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
-
----
-
-## 👀 Profile Views
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yadavanujkumar&label=Profile%20Views&color=brightgreen&style=flat" alt="Profile Views" />
-</p>
-
----
-
-## 🌟 Achievements
-<p align="center">
-  <img src="https://github-profile-achievements.vercel.app/api?username=yadavanujkumar" alt="GitHub Achievements" />
-</p>
-
----
-
-## 🎨 Hobbies & Interests
-- **Photography**: Capturing moments and landscapes  
-- **Traveling**: Exploring new cultures and places  
-
----
-
-## 💬 Let's Connect
-Feel free to reach out if you want to collaborate on a project, or just want to chat about tech!
-
----
-
