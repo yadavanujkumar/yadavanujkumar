@@ -90,5 +90,5 @@ Feel free to reach out if you want to collaborate on a project, or just want to 
 
 ## 🌟 Achievements
 <p align="center">
-  <img src="https://github-profile-achievements.vercel.app/api?username=yadavanujkumar" alt="GitHub Achievements" />
+  <img src="https://github-profile-achievements.vercel.app/api?username="yadavanujkumar" alt="GitHub Achievements" />
 </p>
