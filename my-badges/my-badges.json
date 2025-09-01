@@ -24,7 +24,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"update\".",
-    "body": "My favorite commit message words are:\n\n1. update (used 52 times)\n2. readme.md (used 41 times)\n3. merge (used 39 times)\n4. pull (used 27 times)\n5. request (used 27 times)",
+    "body": "My favorite commit message words are:\n\n1. update (used 53 times)\n2. readme.md (used 42 times)\n3. merge (used 41 times)\n4. pull (used 29 times)\n5. request (used 29 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -73,7 +73,7 @@
     "id": "morning-commits",
     "tier": 0,
     "desc": "I commit in the morning.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/yadavanujkumar/linkedin-scraper/commit/cd0933a12e3de5784f0bf752179f90841f18a015\">cd0933a</a>\n- <a href=\"https://github.com/yadavanujkumar/llm-powered-car-recommendation-web-application/commit/b347b36ee1caefdb7b60e1c01de3ff7254d559e2\">b347b36</a>\n- <a href=\"https://github.com/yadavanujkumar/llm-powered-car-recommendation-web-application/commit/0268d6289e31e40601f62a7ca3e029211a13be56\">0268d62</a>\n- <a href=\"https://github.com/yadavanujkumar/llm-powered-car-recommendation-web-application/commit/61eecc16b0a4b130cd3024d1bdf2cff3d446005f\">61eecc1</a>\n- <a href=\"https://github.com/yadavanujkumar/skills-build-applications-w-copilot-agent-mode/commit/7454aa258107b93113eaba57af7296ecd4a4e231\">7454aa2</a>\n- <a href=\"https://github.com/yadavanujkumar/llm-powered-car-recommendation-web-application/commit/f1bf23cd8b4d5b435dffab5f1b9ca18e26ee0d3b\">f1bf23c</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/yadavanujkumar/3d-portfolio/commit/d0c775d7253c8b67a3d8a817520096c71fc7d275\">d0c775d</a>\n- <a href=\"https://github.com/yadavanujkumar/linkedin-scraper/commit/cd0933a12e3de5784f0bf752179f90841f18a015\">cd0933a</a>\n- <a href=\"https://github.com/yadavanujkumar/llm-powered-car-recommendation-web-application/commit/b347b36ee1caefdb7b60e1c01de3ff7254d559e2\">b347b36</a>\n- <a href=\"https://github.com/yadavanujkumar/llm-powered-car-recommendation-web-application/commit/0268d6289e31e40601f62a7ca3e029211a13be56\">0268d62</a>\n- <a href=\"https://github.com/yadavanujkumar/llm-powered-car-recommendation-web-application/commit/61eecc16b0a4b130cd3024d1bdf2cff3d446005f\">61eecc1</a>\n- <a href=\"https://github.com/yadavanujkumar/skills-build-applications-w-copilot-agent-mode/commit/7454aa258107b93113eaba57af7296ecd4a4e231\">7454aa2</a>",
     "image": "https://my-badges.github.io/my-badges/morning-commits.png"
   },
   {
