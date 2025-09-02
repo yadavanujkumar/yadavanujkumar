@@ -2,7 +2,7 @@
 <strong>One of my commit sha starts with &quot;ab&quot;.</strong>
 <br><br>
 
-- <a href="https://github.com/yadavanujkumar/Machine-Learning-2/commit/ab960ea13fb53d8fd1fcf76ea93028bf03eb9001"><strong>ab</strong>960ea13fb53d8fd1fcf76ea93028bf03eb9001</a>
+- <a href="https://github.com/yadavanujkumar/ai-image-detector/commit/abadc5bfc2d00a5810efeaac7025aeb8c5912b3d"><strong>ab</strong>adc5bfc2d00a5810efeaac7025aeb8c5912b3d</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>

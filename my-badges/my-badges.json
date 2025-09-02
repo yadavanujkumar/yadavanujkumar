@@ -10,7 +10,7 @@
     "id": "ab-commit",
     "tier": 2,
     "desc": "One of my commit sha starts with \"ab\".",
-    "body": "- <a href=\"https://github.com/yadavanujkumar/Machine-Learning-2/commit/ab960ea13fb53d8fd1fcf76ea93028bf03eb9001\"><strong>ab</strong>960ea13fb53d8fd1fcf76ea93028bf03eb9001</a>",
+    "body": "- <a href=\"https://github.com/yadavanujkumar/ai-image-detector/commit/abadc5bfc2d00a5810efeaac7025aeb8c5912b3d\"><strong>ab</strong>adc5bfc2d00a5810efeaac7025aeb8c5912b3d</a>",
     "image": "https://my-badges.github.io/my-badges/ab-commit.png"
   },
   {
@@ -24,7 +24,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"update\".",
-    "body": "My favorite commit message words are:\n\n1. update (used 53 times)\n2. readme.md (used 42 times)\n3. merge (used 41 times)\n4. pull (used 29 times)\n5. request (used 29 times)",
+    "body": "My favorite commit message words are:\n\n1. update (used 54 times)\n2. merge (used 44 times)\n3. readme.md (used 43 times)\n4. pull (used 31 times)\n5. request (used 31 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -66,7 +66,7 @@
     "id": "sleepy-coder",
     "tier": 0,
     "desc": "I am a sleepy coder.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/yadavanujkumar/Machine-Learning-2/commit/02e5821df4fadde11d9b8a765457d51a611956a5\">02e5821</a>\n- <a href=\"https://github.com/yadavanujkumar/CodeAlpha_Sales-predicition/commit/b9bef5e89a639b371159745990a7e926b12a1b7f\">b9bef5e</a>\n- <a href=\"https://github.com/yadavanujkumar/CodeAlpha_Iris-species-classification/commit/4f89d51861d470ba66a492830dc7915f0e291f91\">4f89d51</a>\n- <a href=\"https://github.com/yadavanujkumar/CodeAlpha_Unemployement-analysis/commit/6ee88c72675921171971496077f5bff6e7254206\">6ee88c7</a>\n- <a href=\"https://github.com/yadavanujkumar/CodeAlpha_Car-price-prediciton/commit/81ad6e550da5bbbf15078a3e91735108e9f5919f\">81ad6e5</a>\n- <a href=\"https://github.com/yadavanujkumar/CodeAlpha_Car-price-prediciton/commit/a1ad04cc785c1fe61d7a401de95c90fd07b21052\">a1ad04c</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/yadavanujkumar/ai-image-detector/commit/abadc5bfc2d00a5810efeaac7025aeb8c5912b3d\">abadc5b</a>\n- <a href=\"https://github.com/yadavanujkumar/ai-image-detector/commit/26981021995c5adf600d46fd223e4e43d7310620\">2698102</a>\n- <a href=\"https://github.com/yadavanujkumar/Machine-Learning-2/commit/02e5821df4fadde11d9b8a765457d51a611956a5\">02e5821</a>\n- <a href=\"https://github.com/yadavanujkumar/CodeAlpha_Sales-predicition/commit/b9bef5e89a639b371159745990a7e926b12a1b7f\">b9bef5e</a>\n- <a href=\"https://github.com/yadavanujkumar/CodeAlpha_Iris-species-classification/commit/4f89d51861d470ba66a492830dc7915f0e291f91\">4f89d51</a>\n- <a href=\"https://github.com/yadavanujkumar/CodeAlpha_Unemployement-analysis/commit/6ee88c72675921171971496077f5bff6e7254206\">6ee88c7</a>",
     "image": "https://my-badges.github.io/my-badges/sleepy-coder.png"
   },
   {
