@@ -23,8 +23,8 @@
   {
     "id": "favorite-word",
     "tier": 0,
-    "desc": "My favorite word is \"update\".",
-    "body": "My favorite commit message words are:\n\n1. update (used 55 times)\n2. merge (used 54 times)\n3. readme.md (used 44 times)\n4. pull (used 41 times)\n5. request (used 41 times)",
+    "desc": "My favorite word is \"merge\".",
+    "body": "My favorite commit message words are:\n\n1. merge (used 57 times)\n2. update (used 57 times)\n3. pull (used 44 times)\n4. request (used 44 times)\n5. readme.md (used 44 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
