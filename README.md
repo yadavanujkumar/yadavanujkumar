@@ -101,6 +101,7 @@
   <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
   <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+ <img src="https://img.shields.io/badge/GitHub%20Copilot-1ECF7C?style=for-the-badge&logo=githubcopilot&logoColor=white"/>
 </p>
 
 ---
