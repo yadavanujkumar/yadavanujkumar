@@ -4,12 +4,12 @@
 
 Commits:
 
+- <a href="https://github.com/yadavanujkumar/Golden_globe_awards/commit/6e6640f47154e6c94e08595329dc7d954c5276f8">6e6640f</a>
+- <a href="https://github.com/yadavanujkumar/Golden_globe_awards/commit/1eba39efb52cbd4efd726a0812d8e6b66fd437f0">1eba39e</a>
+- <a href="https://github.com/yadavanujkumar/Golden_globe_awards/commit/f9e48a72c79805000121b2ab6ff638bf5b6777bb">f9e48a7</a>
 - <a href="https://github.com/yadavanujkumar/ev-range-prediction/commit/8a76cd36ee3ae30615396ff71308ce6c9490526e">8a76cd3</a>
 - <a href="https://github.com/yadavanujkumar/Mindful-ml-coping/commit/cd164c22beb78d51c76133531746fb79e2ad587d">cd164c2</a>
 - <a href="https://github.com/yadavanujkumar/Mindful-ml-coping/commit/b1705c260a568fc545d7931a0319b3cc75433aae">b1705c2</a>
-- <a href="https://github.com/yadavanujkumar/awesome-agentic-ai/commit/f1e792069b80ae62b686b7489fe59693c6bc5c26">f1e7920</a>
-- <a href="https://github.com/yadavanujkumar/awesome-agentic-ai/commit/c6dd41cf6f7e1fd573ea614e357fd0e35b9a4f72">c6dd41c</a>
-- <a href="https://github.com/yadavanujkumar/etds2/commit/d1903c1b1bc52a0adc8d478816b7fdf2c2be5484">d1903c1</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
