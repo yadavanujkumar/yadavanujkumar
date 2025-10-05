@@ -4,12 +4,12 @@
 
 Commits:
 
+- <a href="https://github.com/yadavanujkumar/Indian-College-Review-Analysis/commit/a71a92b285fe4297f786de556ceb33621f5b49f9">a71a92b</a>
+- <a href="https://github.com/yadavanujkumar/Metro-interstate-traffic-analysis/commit/201b26316a075e827e9a07737503370281480ea5">201b263</a>
+- <a href="https://github.com/yadavanujkumar/Indian-College-Review-Analysis/commit/37ea986c3f78db795bedaeac6b706c589286da20">37ea986</a>
+- <a href="https://github.com/yadavanujkumar/Indian-College-Review-Analysis/commit/37aeb9882bdb82b12f333ce825173eae281c222c">37aeb98</a>
+- <a href="https://github.com/yadavanujkumar/Indian-College-Review-Analysis/commit/d4c7848419f8c92346f09715bbb06e569f83b77d">d4c7848</a>
 - <a href="https://github.com/yadavanujkumar/Golden_globe_awards/commit/935d1dd9072c92570bd3a2f0d2fe2ec51a1c6dd0">935d1dd</a>
-- <a href="https://github.com/yadavanujkumar/ev-range-prediction/commit/1099163c20307584d40fb54c4960fdafb4e16f29">1099163</a>
-- <a href="https://github.com/yadavanujkumar/FreshCheck/commit/a11eb00d051d4a499d6ead8d584a565501df745d">a11eb00</a>
-- <a href="https://github.com/yadavanujkumar/vision-price-hunt/commit/1193300dec9db626b5ab734869cd2376cd0b12a8">1193300</a>
-- <a href="https://github.com/yadavanujkumar/vision-price-hunt/commit/7f364f9b174ebac9c739b105ad96998a5c2b8503">7f364f9</a>
-- <a href="https://github.com/yadavanujkumar/etds2/commit/31edbc70459d6ceda1bce76b9f97f5fd04a2b8d6">31edbc7</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
