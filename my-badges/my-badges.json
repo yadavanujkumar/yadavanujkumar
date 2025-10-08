@@ -16,15 +16,15 @@
   {
     "id": "dead-commit",
     "tier": 0,
-    "desc": "I pushed a commit with \"dead\" once.",
-    "body": "- <a href=\"https://github.com/yadavanujkumar/portfolio/commit/423fb9828bda0f05130dca9dead05769cae73066\">423fb9828bda0f05130dca9<strong>dead</strong>05769cae73066</a>",
+    "desc": "I pushed a commit with \"dead\" 2 times.",
+    "body": "- <a href=\"https://github.com/yadavanujkumar/crypto-evalution/commit/d6c1b8a7adeadc1daf54d1bb5a38cdcd77bfb520\">d6c1b8a7a<strong>dead</strong>c1daf54d1bb5a38cdcd77bfb520</a>\n- <a href=\"https://github.com/yadavanujkumar/portfolio/commit/423fb9828bda0f05130dca9dead05769cae73066\">423fb9828bda0f05130dca9<strong>dead</strong>05769cae73066</a>",
     "image": "https://my-badges.github.io/my-badges/dead-commit.png"
   },
   {
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"merge\".",
-    "body": "My favorite commit message words are:\n\n1. merge (used 82 times)\n2. pull (used 68 times)\n3. request (used 68 times)\n4. update (used 65 times)\n5. implement (used 58 times)",
+    "body": "My favorite commit message words are:\n\n1. merge (used 84 times)\n2. pull (used 70 times)\n3. request (used 70 times)\n4. update (used 65 times)\n5. implement (used 58 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
