@@ -24,7 +24,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"merge\".",
-    "body": "My favorite commit message words are:\n\n1. merge (used 84 times)\n2. pull (used 70 times)\n3. request (used 70 times)\n4. update (used 65 times)\n5. implement (used 58 times)",
+    "body": "My favorite commit message words are:\n\n1. merge (used 85 times)\n2. pull (used 71 times)\n3. request (used 71 times)\n4. update (used 67 times)\n5. implement (used 60 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -80,7 +80,7 @@
     "id": "evening-commits",
     "tier": 0,
     "desc": "I commit in the evening.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/yadavanujkumar/Ai-Interview-Prepper/commit/0b5f1df5d81ef9a2e2644518f4f7f05143d802db\">0b5f1df</a>\n- <a href=\"https://github.com/yadavanujkumar/mentorness/commit/59419001ca9a6720ac57be92701a9f14d2e41c9a\">5941900</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/yadavanujkumar/Medical-Analytics/commit/fc9af8f2de13a3064d119281099c64ddc8449f58\">fc9af8f</a>\n- <a href=\"https://github.com/yadavanujkumar/Ai-Interview-Prepper/commit/0b5f1df5d81ef9a2e2644518f4f7f05143d802db\">0b5f1df</a>\n- <a href=\"https://github.com/yadavanujkumar/mentorness/commit/59419001ca9a6720ac57be92701a9f14d2e41c9a\">5941900</a>",
     "image": "https://my-badges.github.io/my-badges/evening-commits.png"
   }
 ]
