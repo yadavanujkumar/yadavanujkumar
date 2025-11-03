@@ -20,7 +20,7 @@
 </p>
 
 <p align="center">
-  <a href="https://yadavanujkumar.github.io/portfolio/"><b>🔗 Portfolio Site</b></a>
+  <a href="https://yadavanujkumar.github.io/portfolio_new/"><b>🔗 Portfolio Site</b></a>
 </p>
 
 ---
