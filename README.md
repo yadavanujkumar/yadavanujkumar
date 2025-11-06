@@ -110,13 +110,6 @@
 - **Email:** yadavanujkumar9@gmail.com  
 
 
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yadavanujkumar&theme=onedark&no-frame=true&row=1&column=6" alt="Trophies" />
-</p>
-
----
-
 
 ## 🌐 Top Languages
 <p align="center">
