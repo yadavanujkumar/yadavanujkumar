@@ -1,6 +1,4 @@
 
----
-
 <!-- Animated Banner -->
 <p align="center">
   <img src="https://github.com/yadavanujkumar/yadavanujkumar/blob/main/coding.gif" alt="Anuj the Coder Animated Banner"/>
@@ -14,9 +12,7 @@
   <a href="https://yadavanujkumar.github.io/portfolio_new/"><b>🔗 Portfolio Site</b></a>
 </p>
 
----
 
----
 
 # Skills & Tools
 
@@ -28,7 +24,6 @@
 - Operating systems : Windows, Linux
 - Version control : GitHub, Git
 - Development tools : VS Code, Jupyter, Google Colab, Tableau, Power BI, Slack, Docker, GitHub Copilot
----
 
 
 ## 📬 Contact Me
@@ -41,7 +36,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yadavanujkumar&layout=compact&theme=radical&hide_border=true" />
 </p>
 
----
 <!-- my-badges start -->
 <a href="my-badges/a-commit.md"><img src="https://my-badges.github.io/my-badges/a-commit.png" alt="One of my commit sha starts with &quot;a&quot;." title="One of my commit sha starts with &quot;a&quot;." width="64"></a>
 <a href="my-badges/ab-commit.md"><img src="https://my-badges.github.io/my-badges/ab-commit.png" alt="One of my commit sha starts with &quot;ab&quot;." title="One of my commit sha starts with &quot;ab&quot;." width="64"></a>
