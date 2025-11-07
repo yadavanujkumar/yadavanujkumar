@@ -6,12 +6,8 @@
   <img src="https://github.com/yadavanujkumar/yadavanujkumar/blob/main/coding.gif" alt="Anuj the Coder Animated Banner"/>
 </p>
 
-
-
----
-
 <p align="center">
-  <strong>👋 Hi there! I'm Anuj Kumar.</strong><br>
+  <strong>👋 Hi there! I'm Anuj Kumar. Probably the Dev you need.</strong><br>
 </p>
 
 <p align="center">
@@ -19,12 +15,6 @@
 </p>
 
 ---
-
-## 🧑‍💻 About Me
-- 🚀 Full-stack developer & automation enthusiast
-- 🌱 Always learning new tech and frameworks
-- 📸 Love photography and traveling
-- 💡 Open to collaboration and creative ideas
 
 ---
 
