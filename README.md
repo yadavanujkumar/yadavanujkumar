@@ -6,16 +6,12 @@
   <img src="https://github.com/yadavanujkumar/yadavanujkumar/blob/main/coding.gif" alt="Anuj the Coder Animated Banner"/>
 </p>
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=Hello+Jiii!+🤝;I’m+Anuj+Kumar!;Welcome+to+my+GitHub+profile;&center=true&font=Righteous&size=35&duration=3000">
-  </a>
-</p>
+
 
 ---
 
 <p align="center">
-  <strong>👋 Hi there! I'm Anuj Kumar, a passionate developer and lifelong learner.</strong><br>
+  <strong>👋 Hi there! I'm Anuj Kumar.</strong><br>
 </p>
 
 <p align="center">
