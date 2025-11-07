@@ -30,14 +30,14 @@
 
 # Skills & Tools
 
-Programming language : Python, Java, R, C, C++, HTML5, CSS3, JavaScript, TypeScript
-Databases : MongoDB, MySQL, Firebase, SQLite
-Frameworks & platforms : .NET, Django, Unity, Android, React, Flask, Node.js
-Additional skills : Data Structures & Algorithms (DSA), AI / Machine Learning, Data Analytics
-Cloud platforms : AWS, Azure
-Operating systems : Windows, Linux
-Version control : GitHub, Git
-Development tools : VS Code, Jupyter, Google Colab, Tableau, Power BI, Slack, Docker, GitHub Copilot
+- Programming language : Python, Java, R, C, C++, HTML5, CSS3, JavaScript, TypeScript
+- Databases : MongoDB, MySQL, Firebase, SQLite
+- Frameworks & platforms : .NET, Django, Unity, Android, React, Flask, Node.js
+- Additional skills : Data Structures & Algorithms (DSA), AI / Machine Learning, Data Analytics
+- Cloud platforms : AWS, Azure
+- Operating systems : Windows, Linux
+- Version control : GitHub, Git
+- Development tools : VS Code, Jupyter, Google Colab, Tableau, Power BI, Slack, Docker, GitHub Copilot
 ---
 
 
