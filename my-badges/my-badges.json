@@ -24,7 +24,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"merge\".",
-    "body": "My favorite commit message words are:\n\n1. merge (used 93 times)\n2. pull (used 79 times)\n3. request (used 79 times)\n4. update (used 72 times)\n5. implement (used 70 times)",
+    "body": "My favorite commit message words are:\n\n1. merge (used 94 times)\n2. pull (used 80 times)\n3. request (used 80 times)\n4. update (used 73 times)\n5. implement (used 70 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -73,7 +73,7 @@
     "id": "morning-commits",
     "tier": 0,
     "desc": "I commit in the morning.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/yadavanujkumar/mojo-starter/commit/b6812cf2ea1d385f6dd815310d974fc7bba39954\">b6812cf</a>\n- <a href=\"https://github.com/yadavanujkumar/TSA/commit/c9a4147708f1d548729a23db71f20af686bb2f8c\">c9a4147</a>\n- <a href=\"https://github.com/yadavanujkumar/Nuclear-Explosions-Analysis/commit/c2412bec96e4df7b60d8df46d0d4edee98344e81\">c2412be</a>\n- <a href=\"https://github.com/yadavanujkumar/Nuclear-Explosions-Analysis/commit/7138c79fcbfcdfff31a8fa20a322c3ad8447d1c5\">7138c79</a>\n- <a href=\"https://github.com/yadavanujkumar/Nuclear-Explosions-Analysis/commit/f3546f7fd636f0e810aa0b3bd39a56943c11f46e\">f3546f7</a>\n- <a href=\"https://github.com/yadavanujkumar/Golden_globe_awards/commit/6e6640f47154e6c94e08595329dc7d954c5276f8\">6e6640f</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/yadavanujkumar/Real-Time-Streaming-Data-Pipeline-and-Analytics-Dashboard/commit/356e46e9971ecc7270f703301eca34281b90176a\">356e46e</a>\n- <a href=\"https://github.com/yadavanujkumar/Real-Time-Streaming-Data-Pipeline-and-Analytics-Dashboard/commit/857ae2f446415dbd3bd904dc466b78a64167881c\">857ae2f</a>\n- <a href=\"https://github.com/yadavanujkumar/mojo-starter/commit/b6812cf2ea1d385f6dd815310d974fc7bba39954\">b6812cf</a>\n- <a href=\"https://github.com/yadavanujkumar/TSA/commit/c9a4147708f1d548729a23db71f20af686bb2f8c\">c9a4147</a>\n- <a href=\"https://github.com/yadavanujkumar/Nuclear-Explosions-Analysis/commit/c2412bec96e4df7b60d8df46d0d4edee98344e81\">c2412be</a>\n- <a href=\"https://github.com/yadavanujkumar/Nuclear-Explosions-Analysis/commit/7138c79fcbfcdfff31a8fa20a322c3ad8447d1c5\">7138c79</a>",
     "image": "https://my-badges.github.io/my-badges/morning-commits.png"
   },
   {
