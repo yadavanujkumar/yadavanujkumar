@@ -24,7 +24,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"update\".",
-    "body": "My favorite commit message words are:\n\n1. update (used 120 times)\n2. readme.md (used 101 times)\n3. merge (used 96 times)\n4. pull (used 82 times)\n5. request (used 82 times)",
+    "body": "My favorite commit message words are:\n\n1. update (used 121 times)\n2. readme.md (used 102 times)\n3. merge (used 97 times)\n4. pull (used 83 times)\n5. request (used 83 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -89,13 +89,6 @@
     "desc": "I made an epic commit with a message over 500 chars.",
     "body": "Commits:\n\n- <a href=\"https://github.com/yadavanujkumar/Retro-Game-Hub/commit/fba808ab2d278b2bc09641667a3fd8560f4443e3\">fba808a</a>",
     "image": "https://my-badges.github.io/my-badges/epic-commit.png"
-  },
-  {
-    "id": "self-star",
-    "tier": 0,
-    "desc": "I've starred 9 my own repositories.",
-    "body": "- <a href=\"https://github.com/yadavanujkumar/Multi-Resistance-Antibiotic-Susceptibility\">yadavanujkumar/Multi-Resistance-Antibiotic-Susceptibility</a>\n- <a href=\"https://github.com/yadavanujkumar/The-Influence-of-AI-in-E-Commerce-Dataset-Analysis\">yadavanujkumar/The-Influence-of-AI-in-E-Commerce-Dataset-Analysis</a>\n- <a href=\"https://github.com/yadavanujkumar/Streaming-Activity-Exploration\">yadavanujkumar/Streaming-Activity-Exploration</a>\n- <a href=\"https://github.com/yadavanujkumar/Netflix-Shows-Analysis\">yadavanujkumar/Netflix-Shows-Analysis</a>\n- <a href=\"https://github.com/yadavanujkumar/climate-chronicles\">yadavanujkumar/climate-chronicles</a>\n- <a href=\"https://github.com/yadavanujkumar/Motorsports-performance-predictor\">yadavanujkumar/Motorsports-performance-predictor</a>\n- <a href=\"https://github.com/yadavanujkumar/Cancer-early-detection-pipeline\">yadavanujkumar/Cancer-early-detection-pipeline</a>\n- <a href=\"https://github.com/yadavanujkumar/AI-Personal-Email-Assistant\">yadavanujkumar/AI-Personal-Email-Assistant</a>\n- <a href=\"https://github.com/yadavanujkumar/pdf-querying-web-application\">yadavanujkumar/pdf-querying-web-application</a>",
-    "image": "https://my-badges.github.io/my-badges/self-star.png"
   },
   {
     "id": "delorean",
