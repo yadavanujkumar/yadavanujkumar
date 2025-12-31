@@ -96,5 +96,12 @@
     "desc": "I committed on the day Doctor Emmett Brown invented the flux capacitor!",
     "body": "Commits:\n\n- <a href=\"https://github.com/yadavanujkumar/mojo-starter/commit/b6812cf2ea1d385f6dd815310d974fc7bba39954\">b6812cf</a>\n- <a href=\"https://github.com/yadavanujkumar/mojo-starter/commit/2f7c8f354785572f6a96b11addfa4fd1e7e68345\">2f7c8f3</a>",
     "image": "https://my-badges.github.io/my-badges/delorean.png"
+  },
+  {
+    "id": "pi-day",
+    "tier": 0,
+    "desc": "Happy March 14th! I committed on a Pi Day!",
+    "body": "Commits:\n\n- <a href=\"https://github.com/yadavanujkumar/Fds/commit/ae8eb8ff1233f75df1ad3aae1b25eff6e29dc330\">ae8eb8f</a>\n- <a href=\"https://github.com/yadavanujkumar/Fds/commit/1ef40721c448693fe55b6647a854a2d05dac36b0\">1ef4072</a>",
+    "image": "https://my-badges.github.io/my-badges/pi-day.png"
   }
 ]
