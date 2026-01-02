@@ -3,28 +3,28 @@
     "id": "a-commit",
     "tier": 1,
     "desc": "One of my commit sha starts with \"a\".",
-    "body": "- <a href=\"https://github.com/yadavanujkumar/asm/commit/a5427cf9db2ff942adbe8623db34c01ea26c56e6\"><strong>a</strong>5427cf9db2ff942adbe8623db34c01ea26c56e6</a>",
+    "body": "- <a href=\"https://github.com/yadavanujkumar/yadavanujkumar/commit/a3e19e2fcc6a72b3faba25354f69ab4495344a5e\"><strong>a</strong>3e19e2fcc6a72b3faba25354f69ab4495344a5e</a>",
     "image": "https://my-badges.github.io/my-badges/a-commit.png"
   },
   {
     "id": "ab-commit",
     "tier": 2,
     "desc": "One of my commit sha starts with \"ab\".",
-    "body": "- <a href=\"https://github.com/yadavanujkumar/ai-image-detector/commit/abadc5bfc2d00a5810efeaac7025aeb8c5912b3d\"><strong>ab</strong>adc5bfc2d00a5810efeaac7025aeb8c5912b3d</a>",
+    "body": "- <a href=\"https://github.com/yadavanujkumar/Machine-Learning-2/commit/ab960ea13fb53d8fd1fcf76ea93028bf03eb9001\"><strong>ab</strong>960ea13fb53d8fd1fcf76ea93028bf03eb9001</a>",
     "image": "https://my-badges.github.io/my-badges/ab-commit.png"
   },
   {
     "id": "dead-commit",
     "tier": 0,
     "desc": "I pushed a commit with \"dead\" 2 times.",
-    "body": "- <a href=\"https://github.com/yadavanujkumar/portfolio/commit/423fb9828bda0f05130dca9dead05769cae73066\">423fb9828bda0f05130dca9<strong>dead</strong>05769cae73066</a>\n- <a href=\"https://github.com/yadavanujkumar/crypto-evalution/commit/d6c1b8a7adeadc1daf54d1bb5a38cdcd77bfb520\">d6c1b8a7a<strong>dead</strong>c1daf54d1bb5a38cdcd77bfb520</a>",
+    "body": "- <a href=\"https://github.com/yadavanujkumar/crypto-evalution/commit/d6c1b8a7adeadc1daf54d1bb5a38cdcd77bfb520\">d6c1b8a7a<strong>dead</strong>c1daf54d1bb5a38cdcd77bfb520</a>\n- <a href=\"https://github.com/yadavanujkumar/portfolio/commit/423fb9828bda0f05130dca9dead05769cae73066\">423fb9828bda0f05130dca9<strong>dead</strong>05769cae73066</a>",
     "image": "https://my-badges.github.io/my-badges/dead-commit.png"
   },
   {
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"update\".",
-    "body": "My favorite commit message words are:\n\n1. update (used 132 times)\n2. merge (used 125 times)\n3. pull (used 110 times)\n4. request (used 110 times)\n5. readme.md (used 108 times)",
+    "body": "My favorite commit message words are:\n\n1. update (used 132 times)\n2. merge (used 126 times)\n3. pull (used 111 times)\n4. request (used 111 times)\n5. readme.md (used 108 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
