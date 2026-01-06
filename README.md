@@ -27,14 +27,10 @@
 
 
 ## 📬 Contact Me
-- **Email:** yadavanujkumar9@gmail.com  
+- **Email:** thunderstruck9999@gmail.com  
 
 
 
-## 🌐 Top Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yadavanujkumar&layout=compact&theme=radical&hide_border=true" />
-</p>
 
 <!-- my-badges start -->
 <a href="my-badges/a-commit.md"><img src="https://my-badges.github.io/my-badges/a-commit.png" alt="One of my commit sha starts with &quot;a&quot;." title="One of my commit sha starts with &quot;a&quot;." width="64"></a>
