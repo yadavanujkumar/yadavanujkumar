@@ -3,28 +3,28 @@
     "id": "a-commit",
     "tier": 1,
     "desc": "One of my commit sha starts with \"a\".",
-    "body": "- <a href=\"https://github.com/yadavanujkumar/yadavanujkumar/commit/a3e19e2fcc6a72b3faba25354f69ab4495344a5e\"><strong>a</strong>3e19e2fcc6a72b3faba25354f69ab4495344a5e</a>",
+    "body": "- <a href=\"https://github.com/yadavanujkumar/asm/commit/a5427cf9db2ff942adbe8623db34c01ea26c56e6\"><strong>a</strong>5427cf9db2ff942adbe8623db34c01ea26c56e6</a>",
     "image": "https://my-badges.github.io/my-badges/a-commit.png"
   },
   {
     "id": "ab-commit",
     "tier": 2,
     "desc": "One of my commit sha starts with \"ab\".",
-    "body": "- <a href=\"https://github.com/yadavanujkumar/Machine-Learning-2/commit/ab960ea13fb53d8fd1fcf76ea93028bf03eb9001\"><strong>ab</strong>960ea13fb53d8fd1fcf76ea93028bf03eb9001</a>",
+    "body": "- <a href=\"https://github.com/yadavanujkumar/ai-image-detector/commit/abadc5bfc2d00a5810efeaac7025aeb8c5912b3d\"><strong>ab</strong>adc5bfc2d00a5810efeaac7025aeb8c5912b3d</a>",
     "image": "https://my-badges.github.io/my-badges/ab-commit.png"
   },
   {
     "id": "dead-commit",
     "tier": 0,
     "desc": "I pushed a commit with \"dead\" 2 times.",
-    "body": "- <a href=\"https://github.com/yadavanujkumar/crypto-evalution/commit/d6c1b8a7adeadc1daf54d1bb5a38cdcd77bfb520\">d6c1b8a7a<strong>dead</strong>c1daf54d1bb5a38cdcd77bfb520</a>\n- <a href=\"https://github.com/yadavanujkumar/portfolio/commit/423fb9828bda0f05130dca9dead05769cae73066\">423fb9828bda0f05130dca9<strong>dead</strong>05769cae73066</a>",
+    "body": "- <a href=\"https://github.com/yadavanujkumar/portfolio/commit/423fb9828bda0f05130dca9dead05769cae73066\">423fb9828bda0f05130dca9<strong>dead</strong>05769cae73066</a>\n- <a href=\"https://github.com/yadavanujkumar/crypto-evalution/commit/d6c1b8a7adeadc1daf54d1bb5a38cdcd77bfb520\">d6c1b8a7a<strong>dead</strong>c1daf54d1bb5a38cdcd77bfb520</a>",
     "image": "https://my-badges.github.io/my-badges/dead-commit.png"
   },
   {
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"update\".",
-    "body": "My favorite commit message words are:\n\n1. update (used 135 times)\n2. merge (used 131 times)\n3. pull (used 116 times)\n4. request (used 116 times)\n5. readme.md (used 108 times)",
+    "body": "My favorite commit message words are:\n\n1. update (used 137 times)\n2. merge (used 134 times)\n3. pull (used 118 times)\n4. request (used 118 times)\n5. readme.md (used 111 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -66,7 +66,7 @@
     "id": "sleepy-coder",
     "tier": 0,
     "desc": "I am a sleepy coder.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/yadavanujkumar/AutoAnalyst-Core/commit/60567ffb01303edf472f3dd8ec3654c3aa4fcf33\">60567ff</a>\n- <a href=\"https://github.com/yadavanujkumar/Inter-Agent-Negotiation-for-Resource-Allocation/commit/c6dece6e437c7b8380dd7de23723e1d6e2e14d6c\">c6dece6</a>\n- <a href=\"https://github.com/yadavanujkumar/Controllable-Image-Synthesis-with-ControlNet/commit/712f48c049577293470016e129b16ee5729ee224\">712f48c</a>\n- <a href=\"https://github.com/yadavanujkumar/mojo-starter/commit/2f7c8f354785572f6a96b11addfa4fd1e7e68345\">2f7c8f3</a>\n- <a href=\"https://github.com/yadavanujkumar/The-Influence-of-AI-in-E-Commerce-Dataset-Analysis/commit/627c2400e6d86a0bbd0791ece9bb941611f6b4a9\">627c240</a>\n- <a href=\"https://github.com/yadavanujkumar/The-Influence-of-AI-in-E-Commerce-Dataset-Analysis/commit/a29e77b7dca8d55766197c9800de819f9bb976ea\">a29e77b</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/yadavanujkumar/ott-viewer-dropoff-retention-dataset-eda/commit/6833a37a214bf06c991002cb9291afde473f657b\">6833a37</a>\n- <a href=\"https://github.com/yadavanujkumar/yadavanujkumar/commit/df23b5e5773bbe3ade18076d714c768e4e15b570\">df23b5e</a>\n- <a href=\"https://github.com/yadavanujkumar/Trust-Metrix/commit/1504bd5ae1802ff5923ed31d71c77a0a7413930e\">1504bd5</a>\n- <a href=\"https://github.com/yadavanujkumar/ott-viewer-dropoff-retention-dataset-eda/commit/51c1b939316f12c5b4ff8e25a490bc18f1023a8c\">51c1b93</a>\n- <a href=\"https://github.com/yadavanujkumar/ott-viewer-dropoff-retention-dataset-eda/commit/5b126f12798bceac94ee5f823d23a452116bea8f\">5b126f1</a>\n- <a href=\"https://github.com/yadavanujkumar/ott-viewer-dropoff-retention-dataset-eda/commit/a67e9f463305614beaf9a217ae0bb74f00c1833a\">a67e9f4</a>",
     "image": "https://my-badges.github.io/my-badges/sleepy-coder.png"
   },
   {
@@ -87,7 +87,7 @@
     "id": "epic-commit",
     "tier": 0,
     "desc": "I made an epic commit with a message over 500 chars.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/yadavanujkumar/Retro-Game-Hub/commit/fba808ab2d278b2bc09641667a3fd8560f4443e3\">fba808a</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/yadavanujkumar/WidgetCraft/commit/ba87d9afd7722bb3cffb8d36ff51fa3db717e8a2\">ba87d9a</a>\n- <a href=\"https://github.com/yadavanujkumar/Retro-Game-Hub/commit/fba808ab2d278b2bc09641667a3fd8560f4443e3\">fba808a</a>\n- <a href=\"https://github.com/yadavanujkumar/KnowledgeHub/commit/b3b68f606277f8c9ae15796a54a524f18ec0714a\">b3b68f6</a>",
     "image": "https://my-badges.github.io/my-badges/epic-commit.png"
   },
   {

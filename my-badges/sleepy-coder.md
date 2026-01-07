@@ -4,12 +4,12 @@
 
 Commits:
 
-- <a href="https://github.com/yadavanujkumar/AutoAnalyst-Core/commit/60567ffb01303edf472f3dd8ec3654c3aa4fcf33">60567ff</a>
-- <a href="https://github.com/yadavanujkumar/Inter-Agent-Negotiation-for-Resource-Allocation/commit/c6dece6e437c7b8380dd7de23723e1d6e2e14d6c">c6dece6</a>
-- <a href="https://github.com/yadavanujkumar/Controllable-Image-Synthesis-with-ControlNet/commit/712f48c049577293470016e129b16ee5729ee224">712f48c</a>
-- <a href="https://github.com/yadavanujkumar/mojo-starter/commit/2f7c8f354785572f6a96b11addfa4fd1e7e68345">2f7c8f3</a>
-- <a href="https://github.com/yadavanujkumar/The-Influence-of-AI-in-E-Commerce-Dataset-Analysis/commit/627c2400e6d86a0bbd0791ece9bb941611f6b4a9">627c240</a>
-- <a href="https://github.com/yadavanujkumar/The-Influence-of-AI-in-E-Commerce-Dataset-Analysis/commit/a29e77b7dca8d55766197c9800de819f9bb976ea">a29e77b</a>
+- <a href="https://github.com/yadavanujkumar/ott-viewer-dropoff-retention-dataset-eda/commit/6833a37a214bf06c991002cb9291afde473f657b">6833a37</a>
+- <a href="https://github.com/yadavanujkumar/yadavanujkumar/commit/df23b5e5773bbe3ade18076d714c768e4e15b570">df23b5e</a>
+- <a href="https://github.com/yadavanujkumar/Trust-Metrix/commit/1504bd5ae1802ff5923ed31d71c77a0a7413930e">1504bd5</a>
+- <a href="https://github.com/yadavanujkumar/ott-viewer-dropoff-retention-dataset-eda/commit/51c1b939316f12c5b4ff8e25a490bc18f1023a8c">51c1b93</a>
+- <a href="https://github.com/yadavanujkumar/ott-viewer-dropoff-retention-dataset-eda/commit/5b126f12798bceac94ee5f823d23a452116bea8f">5b126f1</a>
+- <a href="https://github.com/yadavanujkumar/ott-viewer-dropoff-retention-dataset-eda/commit/a67e9f463305614beaf9a217ae0bb74f00c1833a">a67e9f4</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
