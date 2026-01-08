@@ -24,7 +24,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"update\".",
-    "body": "My favorite commit message words are:\n\n1. update (used 137 times)\n2. merge (used 134 times)\n3. pull (used 118 times)\n4. request (used 118 times)\n5. readme.md (used 111 times)",
+    "body": "My favorite commit message words are:\n\n1. update (used 137 times)\n2. merge (used 135 times)\n3. pull (used 119 times)\n4. request (used 119 times)\n5. readme.md (used 111 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -103,5 +103,19 @@
     "desc": "Happy March 14th! I committed on a Pi Day!",
     "body": "Commits:\n\n- <a href=\"https://github.com/yadavanujkumar/Fds/commit/ae8eb8ff1233f75df1ad3aae1b25eff6e29dc330\">ae8eb8f</a>\n- <a href=\"https://github.com/yadavanujkumar/Fds/commit/1ef40721c448693fe55b6647a854a2d05dac36b0\">1ef4072</a>",
     "image": "https://my-badges.github.io/my-badges/pi-day.png"
+  },
+  {
+    "id": "alien-day",
+    "tier": 0,
+    "desc": "I committed on the day when the crew of the USCSS Nostromo made their fateful landing and discovered the Xenomorph on LV-426!",
+    "body": "Commits:\n\n- <a href=\"https://github.com/yadavanujkumar/Three.js-TypeScript-Boilerplate/commit/6837293b934648c994ce30eec1a848e804680b01\">6837293</a>",
+    "image": "https://my-badges.github.io/my-badges/alien-day.png"
+  },
+  {
+    "id": "science-fiction-day",
+    "tier": 0,
+    "desc": "I committed on Isaac Asimov's birthday / National Science Fiction Day!",
+    "body": "Commits:\n\n- <a href=\"https://github.com/yadavanujkumar/Multi-Agent-Economic-Simulation/commit/5a839417fe2c6ee0c9dabd4c4cae289f76ee3815\">5a83941</a>\n- <a href=\"https://github.com/yadavanujkumar/Multi-Agent-Economic-Simulation/commit/cd5f8580dd78b41caba30630a9138a3307cb9978\">cd5f858</a>",
+    "image": "https://my-badges.github.io/my-badges/science-fiction-day.png"
   }
 ]
