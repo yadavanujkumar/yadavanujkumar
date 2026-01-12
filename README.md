@@ -19,7 +19,14 @@
 </picture>
 
 ###
+<div align="left">
+</div>
 
+###
+
+<img src="https://raw.githubusercontent.com/yadavanujkumar/yadavanujkumar/output/snake.svg" alt="Snake animation" />
+
+###
 <div align="left">
 </div>
 
