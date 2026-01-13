@@ -4,12 +4,12 @@
 
 Commits:
 
+- <a href="https://github.com/yadavanujkumar/yadavanujkumar/commit/bb3bf4920f39554293e59e67fbb81bff081650cd">bb3bf49</a>
+- <a href="https://github.com/yadavanujkumar/yadavanujkumar/commit/4221befec20539d34fedfa97939a3fae3e039a7f">4221bef</a>
+- <a href="https://github.com/yadavanujkumar/yadavanujkumar/commit/8d74217e28c3606bcb8ec5aa6a64fc28e337f855">8d74217</a>
+- <a href="https://github.com/yadavanujkumar/yadavanujkumar/commit/7af7f61243938353c4058859d5a12f154e580926">7af7f61</a>
 - <a href="https://github.com/yadavanujkumar/The-Ad-Revenue-Sentinel/commit/95e0199428b5a670823ce74cc873b21081e8611e">95e0199</a>
 - <a href="https://github.com/yadavanujkumar/The-Ad-Revenue-Sentinel/commit/2a8c93dea317e9643b307c909db021b3f62f3ba3">2a8c93d</a>
-- <a href="https://github.com/yadavanujkumar/Retail-Monitor/commit/82cceb6cfbfdbb5f74e22256145be8207cb6ede8">82cceb6</a>
-- <a href="https://github.com/yadavanujkumar/Retail-Monitor/commit/78c17d22a30c98589ba4d241ca96b61a08cb400b">78c17d2</a>
-- <a href="https://github.com/yadavanujkumar/GenAI-Observability-Suite/commit/bf8beae8f02163246d6eb5599b15592eb62eb291">bf8beae</a>
-- <a href="https://github.com/yadavanujkumar/The-Traffic-Tamer/commit/10d8013859e79ac6a3e737f9398196b4887cb0a0">10d8013</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>

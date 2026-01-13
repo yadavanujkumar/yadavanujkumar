@@ -3,28 +3,28 @@
     "id": "a-commit",
     "tier": 1,
     "desc": "One of my commit sha starts with \"a\".",
-    "body": "- <a href=\"https://github.com/yadavanujkumar/asm/commit/a5427cf9db2ff942adbe8623db34c01ea26c56e6\"><strong>a</strong>5427cf9db2ff942adbe8623db34c01ea26c56e6</a>",
+    "body": "- <a href=\"https://github.com/yadavanujkumar/yadavanujkumar/commit/a3e19e2fcc6a72b3faba25354f69ab4495344a5e\"><strong>a</strong>3e19e2fcc6a72b3faba25354f69ab4495344a5e</a>",
     "image": "https://my-badges.github.io/my-badges/a-commit.png"
   },
   {
     "id": "ab-commit",
     "tier": 2,
     "desc": "One of my commit sha starts with \"ab\".",
-    "body": "- <a href=\"https://github.com/yadavanujkumar/ai-image-detector/commit/abadc5bfc2d00a5810efeaac7025aeb8c5912b3d\"><strong>ab</strong>adc5bfc2d00a5810efeaac7025aeb8c5912b3d</a>",
+    "body": "- <a href=\"https://github.com/yadavanujkumar/Machine-Learning-2/commit/ab960ea13fb53d8fd1fcf76ea93028bf03eb9001\"><strong>ab</strong>960ea13fb53d8fd1fcf76ea93028bf03eb9001</a>",
     "image": "https://my-badges.github.io/my-badges/ab-commit.png"
   },
   {
     "id": "dead-commit",
     "tier": 0,
     "desc": "I pushed a commit with \"dead\" 2 times.",
-    "body": "- <a href=\"https://github.com/yadavanujkumar/portfolio/commit/423fb9828bda0f05130dca9dead05769cae73066\">423fb9828bda0f05130dca9<strong>dead</strong>05769cae73066</a>\n- <a href=\"https://github.com/yadavanujkumar/crypto-evalution/commit/d6c1b8a7adeadc1daf54d1bb5a38cdcd77bfb520\">d6c1b8a7a<strong>dead</strong>c1daf54d1bb5a38cdcd77bfb520</a>",
+    "body": "- <a href=\"https://github.com/yadavanujkumar/crypto-evalution/commit/d6c1b8a7adeadc1daf54d1bb5a38cdcd77bfb520\">d6c1b8a7a<strong>dead</strong>c1daf54d1bb5a38cdcd77bfb520</a>\n- <a href=\"https://github.com/yadavanujkumar/portfolio/commit/423fb9828bda0f05130dca9dead05769cae73066\">423fb9828bda0f05130dca9<strong>dead</strong>05769cae73066</a>",
     "image": "https://my-badges.github.io/my-badges/dead-commit.png"
   },
   {
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"merge\".",
-    "body": "My favorite commit message words are:\n\n1. merge (used 138 times)\n2. update (used 137 times)\n3. pull (used 122 times)\n4. request (used 122 times)\n5. readme.md (used 111 times)",
+    "body": "My favorite commit message words are:\n\n1. merge (used 139 times)\n2. update (used 137 times)\n3. pull (used 123 times)\n4. request (used 123 times)\n5. commit (used 113 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -66,7 +66,7 @@
     "id": "sleepy-coder",
     "tier": 0,
     "desc": "I am a sleepy coder.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/yadavanujkumar/The-Ad-Revenue-Sentinel/commit/95e0199428b5a670823ce74cc873b21081e8611e\">95e0199</a>\n- <a href=\"https://github.com/yadavanujkumar/The-Ad-Revenue-Sentinel/commit/2a8c93dea317e9643b307c909db021b3f62f3ba3\">2a8c93d</a>\n- <a href=\"https://github.com/yadavanujkumar/Retail-Monitor/commit/82cceb6cfbfdbb5f74e22256145be8207cb6ede8\">82cceb6</a>\n- <a href=\"https://github.com/yadavanujkumar/Retail-Monitor/commit/78c17d22a30c98589ba4d241ca96b61a08cb400b\">78c17d2</a>\n- <a href=\"https://github.com/yadavanujkumar/GenAI-Observability-Suite/commit/bf8beae8f02163246d6eb5599b15592eb62eb291\">bf8beae</a>\n- <a href=\"https://github.com/yadavanujkumar/The-Traffic-Tamer/commit/10d8013859e79ac6a3e737f9398196b4887cb0a0\">10d8013</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/yadavanujkumar/yadavanujkumar/commit/bb3bf4920f39554293e59e67fbb81bff081650cd\">bb3bf49</a>\n- <a href=\"https://github.com/yadavanujkumar/yadavanujkumar/commit/4221befec20539d34fedfa97939a3fae3e039a7f\">4221bef</a>\n- <a href=\"https://github.com/yadavanujkumar/yadavanujkumar/commit/8d74217e28c3606bcb8ec5aa6a64fc28e337f855\">8d74217</a>\n- <a href=\"https://github.com/yadavanujkumar/yadavanujkumar/commit/7af7f61243938353c4058859d5a12f154e580926\">7af7f61</a>\n- <a href=\"https://github.com/yadavanujkumar/The-Ad-Revenue-Sentinel/commit/95e0199428b5a670823ce74cc873b21081e8611e\">95e0199</a>\n- <a href=\"https://github.com/yadavanujkumar/The-Ad-Revenue-Sentinel/commit/2a8c93dea317e9643b307c909db021b3f62f3ba3\">2a8c93d</a>",
     "image": "https://my-badges.github.io/my-badges/sleepy-coder.png"
   },
   {
@@ -87,7 +87,7 @@
     "id": "epic-commit",
     "tier": 0,
     "desc": "I made an epic commit with a message over 500 chars.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/yadavanujkumar/WidgetCraft/commit/ba87d9afd7722bb3cffb8d36ff51fa3db717e8a2\">ba87d9a</a>\n- <a href=\"https://github.com/yadavanujkumar/Retro-Game-Hub/commit/fba808ab2d278b2bc09641667a3fd8560f4443e3\">fba808a</a>\n- <a href=\"https://github.com/yadavanujkumar/KnowledgeHub/commit/b3b68f606277f8c9ae15796a54a524f18ec0714a\">b3b68f6</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/yadavanujkumar/Retro-Game-Hub/commit/fba808ab2d278b2bc09641667a3fd8560f4443e3\">fba808a</a>\n- <a href=\"https://github.com/yadavanujkumar/KnowledgeHub/commit/b3b68f606277f8c9ae15796a54a524f18ec0714a\">b3b68f6</a>\n- <a href=\"https://github.com/yadavanujkumar/WidgetCraft/commit/ba87d9afd7722bb3cffb8d36ff51fa3db717e8a2\">ba87d9a</a>",
     "image": "https://my-badges.github.io/my-badges/epic-commit.png"
   },
   {
