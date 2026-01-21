@@ -24,7 +24,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"merge\".",
-    "body": "My favorite commit message words are:\n\n1. merge (used 149 times)\n2. update (used 139 times)\n3. pull (used 133 times)\n4. request (used 133 times)\n5. commit (used 121 times)",
+    "body": "My favorite commit message words are:\n\n1. merge (used 149 times)\n2. update (used 139 times)\n3. pull (used 133 times)\n4. request (used 133 times)\n5. commit (used 122 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -66,7 +66,7 @@
     "id": "sleepy-coder",
     "tier": 0,
     "desc": "I am a sleepy coder.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/yadavanujkumar/Supply-Chain-Resilience-Graph/commit/885d8c6c9182c14a0a1234258f5728dd2ace366e\">885d8c6</a>\n- <a href=\"https://github.com/yadavanujkumar/Supply-Chain-Resilience-Graph/commit/c8e1a9e00547dccef1b46e8bc26b03bd38e6a022\">c8e1a9e</a>\n- <a href=\"https://github.com/yadavanujkumar/Talent-Hunter/commit/ecfe1df5350c143e11fd89bb2410045fe07650e1\">ecfe1df</a>\n- <a href=\"https://github.com/yadavanujkumar/Talent-Hunter/commit/c5ac61ea9b275fc518a4de90ae87c0a9dca5bef6\">c5ac61e</a>\n- <a href=\"https://github.com/yadavanujkumar/Session-Rec-Engine/commit/8799a39d55a25163c7ffcfdb45b7e73ceb8a7fea\">8799a39</a>\n- <a href=\"https://github.com/yadavanujkumar/Session-Rec-Engine/commit/43aa109c32b9656e816ac10be51547a8cd66ad6c\">43aa109</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/yadavanujkumar/Neural-Bandit/commit/d7e84dcac71625cc1639a9c69701f4cb04a11096\">d7e84dc</a>\n- <a href=\"https://github.com/yadavanujkumar/Supply-Chain-Resilience-Graph/commit/885d8c6c9182c14a0a1234258f5728dd2ace366e\">885d8c6</a>\n- <a href=\"https://github.com/yadavanujkumar/Supply-Chain-Resilience-Graph/commit/c8e1a9e00547dccef1b46e8bc26b03bd38e6a022\">c8e1a9e</a>\n- <a href=\"https://github.com/yadavanujkumar/Talent-Hunter/commit/ecfe1df5350c143e11fd89bb2410045fe07650e1\">ecfe1df</a>\n- <a href=\"https://github.com/yadavanujkumar/Talent-Hunter/commit/c5ac61ea9b275fc518a4de90ae87c0a9dca5bef6\">c5ac61e</a>\n- <a href=\"https://github.com/yadavanujkumar/Session-Rec-Engine/commit/8799a39d55a25163c7ffcfdb45b7e73ceb8a7fea\">8799a39</a>",
     "image": "https://my-badges.github.io/my-badges/sleepy-coder.png"
   },
   {
