@@ -24,7 +24,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"merge\".",
-    "body": "My favorite commit message words are:\n\n1. merge (used 149 times)\n2. update (used 139 times)\n3. pull (used 133 times)\n4. request (used 133 times)\n5. commit (used 122 times)",
+    "body": "My favorite commit message words are:\n\n1. merge (used 150 times)\n2. update (used 140 times)\n3. pull (used 134 times)\n4. request (used 134 times)\n5. commit (used 122 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -73,7 +73,7 @@
     "id": "morning-commits",
     "tier": 0,
     "desc": "I commit in the morning.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/yadavanujkumar/Session-Rec-Engine/commit/3acbbd533ff8161ef8fd8da03e7c266de4751b54\">3acbbd5</a>\n- <a href=\"https://github.com/yadavanujkumar/AutoAnalyst-Core/commit/5061574b828e2f1cdbb647f4c17ff8c9a76ac17c\">5061574</a>\n- <a href=\"https://github.com/yadavanujkumar/AutoAnalyst-Core/commit/c5625ce8b2b998c0cad44ccc46dfb0ff7703d7af\">c5625ce</a>\n- <a href=\"https://github.com/yadavanujkumar/AutoAnalyst-Core/commit/890feda7b8293c982974a1afd6a2a7d9a021733f\">890feda</a>\n- <a href=\"https://github.com/yadavanujkumar/Real-Time-Streaming-Data-Pipeline-and-Analytics-Dashboard/commit/f77efc6ab968c1ac4f91926db354c5a118567714\">f77efc6</a>\n- <a href=\"https://github.com/yadavanujkumar/yadavanujkumar/commit/df79bbb2606540d4b0b8cd5fefadbfb59311933b\">df79bbb</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/yadavanujkumar/Neural-Bandit/commit/244f9bfed7056ec6d6f212f1824626b4f9fef0ad\">244f9bf</a>\n- <a href=\"https://github.com/yadavanujkumar/Session-Rec-Engine/commit/3acbbd533ff8161ef8fd8da03e7c266de4751b54\">3acbbd5</a>\n- <a href=\"https://github.com/yadavanujkumar/AutoAnalyst-Core/commit/5061574b828e2f1cdbb647f4c17ff8c9a76ac17c\">5061574</a>\n- <a href=\"https://github.com/yadavanujkumar/AutoAnalyst-Core/commit/c5625ce8b2b998c0cad44ccc46dfb0ff7703d7af\">c5625ce</a>\n- <a href=\"https://github.com/yadavanujkumar/AutoAnalyst-Core/commit/890feda7b8293c982974a1afd6a2a7d9a021733f\">890feda</a>\n- <a href=\"https://github.com/yadavanujkumar/Real-Time-Streaming-Data-Pipeline-and-Analytics-Dashboard/commit/f77efc6ab968c1ac4f91926db354c5a118567714\">f77efc6</a>",
     "image": "https://my-badges.github.io/my-badges/morning-commits.png"
   },
   {
