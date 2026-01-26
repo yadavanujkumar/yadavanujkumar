@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <strong>👋 Hi there! I'm Anuj Kumar. Probably the Dev you need.</strong><br>
+  <strong> Hi! I'm AnujKumar. Probably the Dev you need.</strong><br>
 </p>
 
 <p align="center">
