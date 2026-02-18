@@ -4,12 +4,12 @@
 
 Commits:
 
-- <a href="https://github.com/yadavanujkumar/aws-bedrock-basic/commit/79823cca02616ad2da284267003a3ab786487ab2">79823cc</a>
-- <a href="https://github.com/yadavanujkumar/Something/commit/08243423d036b80886d25f1cca79f36da29e03bc">0824342</a>
-- <a href="https://github.com/yadavanujkumar/Neural-Bandit/commit/244f9bfed7056ec6d6f212f1824626b4f9fef0ad">244f9bf</a>
-- <a href="https://github.com/yadavanujkumar/Session-Rec-Engine/commit/3acbbd533ff8161ef8fd8da03e7c266de4751b54">3acbbd5</a>
-- <a href="https://github.com/yadavanujkumar/AutoAnalyst-Core/commit/5061574b828e2f1cdbb647f4c17ff8c9a76ac17c">5061574</a>
-- <a href="https://github.com/yadavanujkumar/AutoAnalyst-Core/commit/c5625ce8b2b998c0cad44ccc46dfb0ff7703d7af">c5625ce</a>
+- <a href="https://github.com/yadavanujkumar/ai-enhanced-content-moderation-system-for-social-media/commit/044f8528265f5208a3861cfc0cd8724e1dd2d6f0">044f852</a>
+- <a href="https://github.com/yadavanujkumar/ai-enhanced-content-moderation-system-for-social-media/commit/0be656282ab9a7d3120f9817d35b9bf041d3ac49">0be6562</a>
+- <a href="https://github.com/yadavanujkumar/real-time-email-classification-and-response-automation-tool/commit/f2a9ad97f16754aa86e9461d4bc229f1a4e4e47d">f2a9ad9</a>
+- <a href="https://github.com/yadavanujkumar/ai-driven-job-market-insights-dashboard/commit/62be68a74cba3c7a3d35168a7a131601e8f198f3">62be68a</a>
+- <a href="https://github.com/yadavanujkumar/ai-powered-personal-email-assistant/commit/a5cde3e9393009568bdacb3a911bf5be34e44362">a5cde3e</a>
+- <a href="https://github.com/yadavanujkumar/ai-enhanced-personal-finance-advisor/commit/99b887fd7a877d241ceaab58c0eddf1c7d5e36a8">99b887f</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>

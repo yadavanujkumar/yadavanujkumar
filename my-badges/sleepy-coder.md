@@ -4,12 +4,12 @@
 
 Commits:
 
-- <a href="https://github.com/yadavanujkumar/Reconciliation-System/commit/3b4ab9724922f9d9f09783b3f78b5f72b553f859">3b4ab97</a>
-- <a href="https://github.com/yadavanujkumar/Reconciliation-System/commit/cd499839e91a2dd876eba587084f04ce2985ccb6">cd49983</a>
-- <a href="https://github.com/yadavanujkumar/Apex-ML-API/commit/c19541ef27119274fe9c9f6742c53e75318aaacc">c19541e</a>
-- <a href="https://github.com/yadavanujkumar/Apex-ML-API/commit/4fdc5a180d60f3ababb7c7decb8bf12b09a586b2">4fdc5a1</a>
-- <a href="https://github.com/yadavanujkumar/amazon-sales-data-analysis/commit/87492f821b9712cfbd9027f55b2657cedd92937d">87492f8</a>
-- <a href="https://github.com/yadavanujkumar/Terraform-Tutorial/commit/f3361e591cad82fc69ed99bfe3c022c91be1234c">f3361e5</a>
+- <a href="https://github.com/yadavanujkumar/Decentralized-AI-Powered-Fraud-Detection-Platform/commit/91981ce3ced17d1edc7dc0010642fd6fbb2dcb3d">91981ce</a>
+- <a href="https://github.com/yadavanujkumar/autonomous-quantitative-trading-system-with-ai-agents/commit/d9a316bda49eb8db78a1f68ead01e86a7e323b9e">d9a316b</a>
+- <a href="https://github.com/yadavanujkumar/ai-enhanced-personal-finance-advisor/commit/d96a7d71f8cb734423af4f7526f3a80c19a9e0f8">d96a7d7</a>
+- <a href="https://github.com/yadavanujkumar/ai-powered-personal-email-management-assistant/commit/de8e0ffdb70fe86b6f69d466b95e1aab71765938">de8e0ff</a>
+- <a href="https://github.com/yadavanujkumar/autonomous-quantitative-trading-system-with-ai-agents/commit/188097bf636b130f1063102f5633d7188dffbd76">188097b</a>
+- <a href="https://github.com/yadavanujkumar/Decentralized-Marketplace-for-AI-Models/commit/3e377e353707a7f36d796a306eaff7ae0ee5f74e">3e377e3</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
