@@ -4,12 +4,12 @@
 
 Commits:
 
-- <a href="https://github.com/yadavanujkumar/Decentralized-AI-Powered-Fraud-Detection-Platform/commit/91981ce3ced17d1edc7dc0010642fd6fbb2dcb3d">91981ce</a>
-- <a href="https://github.com/yadavanujkumar/autonomous-quantitative-trading-system-with-ai-agents/commit/d9a316bda49eb8db78a1f68ead01e86a7e323b9e">d9a316b</a>
-- <a href="https://github.com/yadavanujkumar/ai-enhanced-personal-finance-advisor/commit/d96a7d71f8cb734423af4f7526f3a80c19a9e0f8">d96a7d7</a>
-- <a href="https://github.com/yadavanujkumar/ai-powered-personal-email-management-assistant/commit/de8e0ffdb70fe86b6f69d466b95e1aab71765938">de8e0ff</a>
-- <a href="https://github.com/yadavanujkumar/autonomous-quantitative-trading-system-with-ai-agents/commit/188097bf636b130f1063102f5633d7188dffbd76">188097b</a>
-- <a href="https://github.com/yadavanujkumar/Decentralized-Marketplace-for-AI-Models/commit/3e377e353707a7f36d796a306eaff7ae0ee5f74e">3e377e3</a>
+- <a href="https://github.com/yadavanujkumar/ai-driven-interview-performance-analytics-tool/commit/f4bd868e9dd8562e76e1198e202a7a059e99e91e">f4bd868</a>
+- <a href="https://github.com/yadavanujkumar/ai-driven-job-market-insights-dashboard/commit/1f62c7343393ede02cdd87fed8b7fdf389ee07a9">1f62c73</a>
+- <a href="https://github.com/yadavanujkumar/ai-driven-job-market-insights-dashboard/commit/67146669dd534f48c512819b1a9d97cc4d1e6e72">6714666</a>
+- <a href="https://github.com/yadavanujkumar/ai-driven-job-market-insights-dashboard/commit/95e1bb0a159ed0ad976b2f22f503baa02bf9f67b">95e1bb0</a>
+- <a href="https://github.com/yadavanujkumar/ai-driven-job-market-insights-dashboard/commit/c632f95860f864a998a1881208588ff000451c59">c632f95</a>
+- <a href="https://github.com/yadavanujkumar/ai-driven-job-market-insights-dashboard/commit/3621bb12fb9a650bc039d8864ca22a02b81dd7a7">3621bb1</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
