@@ -36,7 +36,7 @@
 - Operating systems : Windows, Linux
 - Version control : GitHub, Git
 - Development tools : VS Code, Jupyter, Google Colab, Tableau, Power BI, Slack, Docker, Antigravity
-- AI: n8n, autogluon, rpa,  GitHub Copilot, codex
+- AI: n8n, autogluon, rpa,  GitHub Copilot, codex, replit
 
 
 ## 📬 Contact Me
