@@ -24,7 +24,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"add\".",
-    "body": "My favorite commit message words are:\n\n1. add (used 286 times)\n2. merge (used 210 times)\n3. pull (used 194 times)\n4. request (used 194 times)\n5. ai) (used 154 times)",
+    "body": "My favorite commit message words are:\n\n1. add (used 287 times)\n2. merge (used 211 times)\n3. pull (used 195 times)\n4. request (used 195 times)\n5. ai) (used 154 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -66,7 +66,7 @@
     "id": "sleepy-coder",
     "tier": 0,
     "desc": "I am a sleepy coder.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/yadavanujkumar/Council-of-llms/commit/5c2d13a5fe2f5e6d88d366adb75cdc0d7659890b\">5c2d13a</a>\n- <a href=\"https://github.com/yadavanujkumar/Council-of-llms/commit/c2b8833c4ba12a6e0af65c17c1ca4da6c3004708\">c2b8833</a>\n- <a href=\"https://github.com/yadavanujkumar/predictive-health-risk-assessment-tool/commit/5e54bffa3b66d16cdef4521c077f6a3a9948e44c\">5e54bff</a>\n- <a href=\"https://github.com/yadavanujkumar/ai-driven-interview-performance-analytics-tool/commit/f4bd868e9dd8562e76e1198e202a7a059e99e91e\">f4bd868</a>\n- <a href=\"https://github.com/yadavanujkumar/ai-driven-job-market-insights-dashboard/commit/1f62c7343393ede02cdd87fed8b7fdf389ee07a9\">1f62c73</a>\n- <a href=\"https://github.com/yadavanujkumar/ai-driven-job-market-insights-dashboard/commit/67146669dd534f48c512819b1a9d97cc4d1e6e72\">6714666</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/yadavanujkumar/yadavanujkumar/commit/37a34cec6a32056a6d830bf26536b0aaf4c1398a\">37a34ce</a>\n- <a href=\"https://github.com/yadavanujkumar/yadavanujkumar/commit/4f85a308456b9fb98cd270bd0e75a6360955da36\">4f85a30</a>\n- <a href=\"https://github.com/yadavanujkumar/Council-of-llms/commit/5c2d13a5fe2f5e6d88d366adb75cdc0d7659890b\">5c2d13a</a>\n- <a href=\"https://github.com/yadavanujkumar/Council-of-llms/commit/c2b8833c4ba12a6e0af65c17c1ca4da6c3004708\">c2b8833</a>\n- <a href=\"https://github.com/yadavanujkumar/predictive-health-risk-assessment-tool/commit/5e54bffa3b66d16cdef4521c077f6a3a9948e44c\">5e54bff</a>\n- <a href=\"https://github.com/yadavanujkumar/ai-driven-interview-performance-analytics-tool/commit/f4bd868e9dd8562e76e1198e202a7a059e99e91e\">f4bd868</a>",
     "image": "https://my-badges.github.io/my-badges/sleepy-coder.png"
   },
   {
@@ -124,5 +124,12 @@
     "desc": "I committed on St. Patrick's Day!",
     "body": "Commits:\n\n- <a href=\"https://github.com/yadavanujkumar/Real-Time-Smart-Surveillance-AI-System/commit/a66036dbf10a1891b5e0389f47f30f8126e2cde0\">a66036d</a>",
     "image": "https://my-badges.github.io/my-badges/st-patricks-day.png"
+  },
+  {
+    "id": "polite-coder",
+    "tier": 0,
+    "desc": "I am a polite coder.",
+    "body": "I use words like \"thanks\" and \"please\" in my issues:\n\n- <a href=\"https://github.com/yadavanujkumar/awesome-agentic-ai/issues/16\">#16</a>: please update ",
+    "image": "https://my-badges.github.io/my-badges/polite-coder.png"
   }
 ]
