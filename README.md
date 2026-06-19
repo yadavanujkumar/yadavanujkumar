@@ -31,12 +31,10 @@
 - Programming language : Python, Java, R, C, C++, HTML5, CSS3, JavaScript, TypeScript
 - Databases : Supabase, MongoDB, MySQL, Firebase, SQLite
 - Frameworks & platforms : .NET, Django, Unity, Android, React, Flask, Node.js, Terraform, Langchain, Langraph
-- Additional skills : Data Structures & Algorithms (DSA), Data Analytics
+- Additional skills : DSA, Data Analytics
 - Cloud platforms : AWS, Azure
 - Operating systems : Windows, Linux
-- Version control : GitHub, Git
-- Development tools : VS Code, Jupyter, Google Colab, Tableau, Power BI, Slack, Docker, Antigravity
-- AI: n8n, autogluon, rpa,  GitHub Copilot, codex, replit
+- Development tools : VS Code, Jupyter, Google Colab, Tableau, Power BI, Slack, Docker, Antigravity, n8n, Copilot, codex, replit
 
 
 ## 📬 Contact Me
