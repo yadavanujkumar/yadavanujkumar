@@ -24,7 +24,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"add\".",
-    "body": "My favorite commit message words are:\n\n1. add (used 304 times)\n2. merge (used 245 times)\n3. request (used 231 times)\n4. pull (used 229 times)\n5. commit (used 159 times)",
+    "body": "My favorite commit message words are:\n\n1. add (used 315 times)\n2. merge (used 255 times)\n3. request (used 243 times)\n4. pull (used 239 times)\n5. update (used 168 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -66,14 +66,14 @@
     "id": "sleepy-coder",
     "tier": 0,
     "desc": "I am a sleepy coder.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/yadavanujkumar/yadavanujkumar/commit/37a34cec6a32056a6d830bf26536b0aaf4c1398a\">37a34ce</a>\n- <a href=\"https://github.com/yadavanujkumar/yadavanujkumar/commit/4f85a308456b9fb98cd270bd0e75a6360955da36\">4f85a30</a>\n- <a href=\"https://github.com/yadavanujkumar/Council-of-llms/commit/5c2d13a5fe2f5e6d88d366adb75cdc0d7659890b\">5c2d13a</a>\n- <a href=\"https://github.com/yadavanujkumar/Council-of-llms/commit/c2b8833c4ba12a6e0af65c17c1ca4da6c3004708\">c2b8833</a>\n- <a href=\"https://github.com/yadavanujkumar/predictive-health-risk-assessment-tool/commit/5e54bffa3b66d16cdef4521c077f6a3a9948e44c\">5e54bff</a>\n- <a href=\"https://github.com/yadavanujkumar/ai-driven-interview-performance-analytics-tool/commit/f4bd868e9dd8562e76e1198e202a7a059e99e91e\">f4bd868</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/yadavanujkumar/AI-Meeting-Intelligence-Platform/commit/c2a14431c554af8634c86dd0321a20ca24ff23b2\">c2a1443</a>\n- <a href=\"https://github.com/yadavanujkumar/AI-Meeting-Intelligence-Platform/commit/7b01b77e70e3e90985b89864f311cc0ac52a9fce\">7b01b77</a>\n- <a href=\"https://github.com/yadavanujkumar/Multi-Agent-AI-Audit-System/commit/5410722b09e81610d8d73e2fb3ff9014a1b0d0c3\">5410722</a>\n- <a href=\"https://github.com/yadavanujkumar/ai-product-analyst/commit/61f52f752ea0eef39b2cfac92b158808a34f84ad\">61f52f7</a>\n- <a href=\"https://github.com/yadavanujkumar/ai-product-analyst/commit/5a08357f0a3225b73fd20dfe0c362f0441397aaa\">5a08357</a>\n- <a href=\"https://github.com/yadavanujkumar/yadavanujkumar/commit/37a34cec6a32056a6d830bf26536b0aaf4c1398a\">37a34ce</a>",
     "image": "https://my-badges.github.io/my-badges/sleepy-coder.png"
   },
   {
     "id": "morning-commits",
     "tier": 0,
     "desc": "I commit in the morning.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/yadavanujkumar/Decentralized-Marketplace-for-AI-Models/commit/765bb7c061888a55e9fa8004d82db34ac05f2120\">765bb7c</a>\n- <a href=\"https://github.com/yadavanujkumar/llm-powered-car-recommendation-web-application/commit/8325c5acbc881828c7052427c0aa222357fac578\">8325c5a</a>\n- <a href=\"https://github.com/yadavanujkumar/privacy-preserving-multi-agent-fraud-investigation-network/commit/88f681cae086d568602620e5db38b69d3143e651\">88f681c</a>\n- <a href=\"https://github.com/yadavanujkumar/Semantic-Omni-Search-Engine/commit/cc4a53bd34a9079ff1865bfecc06c386cd968bec\">cc4a53b</a>\n- <a href=\"https://github.com/yadavanujkumar/Semantic-Omni-Search-Engine/commit/d9909ac02e4e54c013c90e00b80c992343edd311\">d9909ac</a>\n- <a href=\"https://github.com/yadavanujkumar/Council-of-llms/commit/0e5d495d5f20de9346324af04dab700d0e76bafc\">0e5d495</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/yadavanujkumar/Blueprint-Engine/commit/d9ea8ddea072e489d3a2ee603d4592f7221505c7\">d9ea8dd</a>\n- <a href=\"https://github.com/yadavanujkumar/Multi-Agent-AI-Audit-System/commit/58d891ddb5ed6d3f8ad80bb94e543f4578387866\">58d891d</a>\n- <a href=\"https://github.com/yadavanujkumar/LLM-Image-Generation-Benchmark-ChatGPT-vs-Gemini/commit/1afa67eadb5df33827ef7a902f27f4844844e21f\">1afa67e</a>\n- <a href=\"https://github.com/yadavanujkumar/LLM-Image-Generation-Benchmark-ChatGPT-vs-Gemini/commit/6257d3a72a2f9543953f698117050caf9488997c\">6257d3a</a>\n- <a href=\"https://github.com/yadavanujkumar/LLM-Image-Generation-Benchmark-ChatGPT-vs-Gemini/commit/f21512413186a1ba65d54c0fbb803ee4159ef9f6\">f215124</a>\n- <a href=\"https://github.com/yadavanujkumar/LLM-Image-Generation-Benchmark-ChatGPT-vs-Gemini/commit/0f7af123d1b5b279d12d652348ec8df88e3d479d\">0f7af12</a>",
     "image": "https://my-badges.github.io/my-badges/morning-commits.png"
   },
   {
@@ -108,7 +108,7 @@
     "id": "alien-day",
     "tier": 0,
     "desc": "I committed on the day when the crew of the USCSS Nostromo made their fateful landing and discovered the Xenomorph on LV-426!",
-    "body": "Commits:\n\n- <a href=\"https://github.com/yadavanujkumar/Three.js-TypeScript-Boilerplate/commit/6837293b934648c994ce30eec1a848e804680b01\">6837293</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/yadavanujkumar/Blueprint-Engine/commit/e895b50c48c054960d356c49d9aeaa0a5b9cbc09\">e895b50</a>\n- <a href=\"https://github.com/yadavanujkumar/Three.js-TypeScript-Boilerplate/commit/6837293b934648c994ce30eec1a848e804680b01\">6837293</a>",
     "image": "https://my-badges.github.io/my-badges/alien-day.png"
   },
   {

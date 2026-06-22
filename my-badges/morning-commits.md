@@ -4,12 +4,12 @@
 
 Commits:
 
-- <a href="https://github.com/yadavanujkumar/Decentralized-Marketplace-for-AI-Models/commit/765bb7c061888a55e9fa8004d82db34ac05f2120">765bb7c</a>
-- <a href="https://github.com/yadavanujkumar/llm-powered-car-recommendation-web-application/commit/8325c5acbc881828c7052427c0aa222357fac578">8325c5a</a>
-- <a href="https://github.com/yadavanujkumar/privacy-preserving-multi-agent-fraud-investigation-network/commit/88f681cae086d568602620e5db38b69d3143e651">88f681c</a>
-- <a href="https://github.com/yadavanujkumar/Semantic-Omni-Search-Engine/commit/cc4a53bd34a9079ff1865bfecc06c386cd968bec">cc4a53b</a>
-- <a href="https://github.com/yadavanujkumar/Semantic-Omni-Search-Engine/commit/d9909ac02e4e54c013c90e00b80c992343edd311">d9909ac</a>
-- <a href="https://github.com/yadavanujkumar/Council-of-llms/commit/0e5d495d5f20de9346324af04dab700d0e76bafc">0e5d495</a>
+- <a href="https://github.com/yadavanujkumar/Blueprint-Engine/commit/d9ea8ddea072e489d3a2ee603d4592f7221505c7">d9ea8dd</a>
+- <a href="https://github.com/yadavanujkumar/Multi-Agent-AI-Audit-System/commit/58d891ddb5ed6d3f8ad80bb94e543f4578387866">58d891d</a>
+- <a href="https://github.com/yadavanujkumar/LLM-Image-Generation-Benchmark-ChatGPT-vs-Gemini/commit/1afa67eadb5df33827ef7a902f27f4844844e21f">1afa67e</a>
+- <a href="https://github.com/yadavanujkumar/LLM-Image-Generation-Benchmark-ChatGPT-vs-Gemini/commit/6257d3a72a2f9543953f698117050caf9488997c">6257d3a</a>
+- <a href="https://github.com/yadavanujkumar/LLM-Image-Generation-Benchmark-ChatGPT-vs-Gemini/commit/f21512413186a1ba65d54c0fbb803ee4159ef9f6">f215124</a>
+- <a href="https://github.com/yadavanujkumar/LLM-Image-Generation-Benchmark-ChatGPT-vs-Gemini/commit/0f7af123d1b5b279d12d652348ec8df88e3d479d">0f7af12</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
