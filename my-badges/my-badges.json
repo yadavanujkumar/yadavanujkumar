@@ -24,7 +24,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"add\".",
-    "body": "My favorite commit message words are:\n\n1. add (used 317 times)\n2. merge (used 258 times)\n3. request (used 249 times)\n4. pull (used 245 times)\n5. update (used 170 times)",
+    "body": "My favorite commit message words are:\n\n1. add (used 320 times)\n2. merge (used 260 times)\n3. request (used 251 times)\n4. pull (used 247 times)\n5. update (used 170 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -73,7 +73,7 @@
     "id": "morning-commits",
     "tier": 0,
     "desc": "I commit in the morning.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/yadavanujkumar/Blueprint-Engine/commit/d9ea8ddea072e489d3a2ee603d4592f7221505c7\">d9ea8dd</a>\n- <a href=\"https://github.com/yadavanujkumar/Multi-Agent-AI-Audit-System/commit/58d891ddb5ed6d3f8ad80bb94e543f4578387866\">58d891d</a>\n- <a href=\"https://github.com/yadavanujkumar/LLM-Image-Generation-Benchmark-ChatGPT-vs-Gemini/commit/1afa67eadb5df33827ef7a902f27f4844844e21f\">1afa67e</a>\n- <a href=\"https://github.com/yadavanujkumar/LLM-Image-Generation-Benchmark-ChatGPT-vs-Gemini/commit/6257d3a72a2f9543953f698117050caf9488997c\">6257d3a</a>\n- <a href=\"https://github.com/yadavanujkumar/LLM-Image-Generation-Benchmark-ChatGPT-vs-Gemini/commit/f21512413186a1ba65d54c0fbb803ee4159ef9f6\">f215124</a>\n- <a href=\"https://github.com/yadavanujkumar/LLM-Image-Generation-Benchmark-ChatGPT-vs-Gemini/commit/0f7af123d1b5b279d12d652348ec8df88e3d479d\">0f7af12</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/yadavanujkumar/Mcp-vs-Api/commit/9b7623100449dde48700f7112c961082f90709ed\">9b76231</a>\n- <a href=\"https://github.com/yadavanujkumar/Mcp-vs-Api/commit/4734ae5d6252beb2cb559984156878b24569ecfd\">4734ae5</a>\n- <a href=\"https://github.com/yadavanujkumar/Mcp-vs-Api/commit/dd304aec47f0d2a1d60c78e8d23a4416f4495e8a\">dd304ae</a>\n- <a href=\"https://github.com/yadavanujkumar/Blueprint-Engine/commit/d9ea8ddea072e489d3a2ee603d4592f7221505c7\">d9ea8dd</a>\n- <a href=\"https://github.com/yadavanujkumar/Multi-Agent-AI-Audit-System/commit/58d891ddb5ed6d3f8ad80bb94e543f4578387866\">58d891d</a>\n- <a href=\"https://github.com/yadavanujkumar/LLM-Image-Generation-Benchmark-ChatGPT-vs-Gemini/commit/1afa67eadb5df33827ef7a902f27f4844844e21f\">1afa67e</a>",
     "image": "https://my-badges.github.io/my-badges/morning-commits.png"
   },
   {
