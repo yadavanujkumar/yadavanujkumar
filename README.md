@@ -29,7 +29,7 @@
 - Reasearching, Building & Exploring Tech.
 
 
-## 📬 Contact Me
+## Contact Me
 - **Email:** thunderstruck9999@gmail.com  
 
 
