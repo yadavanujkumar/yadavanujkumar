@@ -26,7 +26,7 @@
 
 ###
 
--Independent Researcher and Working Professional on AI.
+- Reasearching, Building & Exploring Tech.
 
 
 ## 📬 Contact Me
