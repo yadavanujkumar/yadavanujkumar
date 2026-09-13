@@ -58,15 +58,15 @@
   {
     "id": "favorite-word",
     "tier": 0,
-    "desc": "My favorite word is \"add\".",
-    "body": "My favorite commit message words are:\n\n1. add (used 387 times)\n2. merge (used 268 times)\n3. request (used 258 times)\n4. pull (used 254 times)\n5. update (used 176 times)",
+    "desc": "My favorite word is \"ai)\".",
+    "body": "My favorite commit message words are:\n\n1. ai) (used 154 times)\n2. project (used 80 times)\n3. ai (used 75 times)\n4. autonomous (used 45 times)\n5. section (used 32 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
     "id": "fix-2",
     "tier": 1,
     "desc": "I did 2 sequential fixes.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/yadavanujkumar/awesome-agentic-ai/commit/85ee02664bbfa86705094cc4f161ec7391e26acf\">85ee026</a>: Fix link formatting for AI Agents Tutorial\n\nUpdated the link for the 'Introduction to AI Agents Tutorial' to remove markdown formatting.\n- <a href=\"https://github.com/yadavanujkumar/awesome-agentic-ai/commit/dafedf8466ec5cdd83cc6c5bdada35d1330227bd\">dafedf8</a>: Fix link for AI Agents Tutorial resource",
+    "body": "Commits:\n\n- <a href=\"https://github.com/yadavanujkumar/athena-assurance-runtime/commit/9b68d5010feacb77d084df1a16877ac00d93af25\">9b68d50</a>: Fix Investigator constructor compatibility\n- <a href=\"https://github.com/yadavanujkumar/athena-assurance-runtime/commit/755239494f19ef1d204faadc920b206bcdd227c8\">7552394</a>: Fix Investigator runtime compatibility",
     "image": "https://my-badges.github.io/my-badges/fix-2.png"
   },
   {

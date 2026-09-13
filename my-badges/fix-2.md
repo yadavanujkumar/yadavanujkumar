@@ -4,10 +4,8 @@
 
 Commits:
 
-- <a href="https://github.com/yadavanujkumar/awesome-agentic-ai/commit/85ee02664bbfa86705094cc4f161ec7391e26acf">85ee026</a>: Fix link formatting for AI Agents Tutorial
-
-Updated the link for the 'Introduction to AI Agents Tutorial' to remove markdown formatting.
-- <a href="https://github.com/yadavanujkumar/awesome-agentic-ai/commit/dafedf8466ec5cdd83cc6c5bdada35d1330227bd">dafedf8</a>: Fix link for AI Agents Tutorial resource
+- <a href="https://github.com/yadavanujkumar/athena-assurance-runtime/commit/9b68d5010feacb77d084df1a16877ac00d93af25">9b68d50</a>: Fix Investigator constructor compatibility
+- <a href="https://github.com/yadavanujkumar/athena-assurance-runtime/commit/755239494f19ef1d204faadc920b206bcdd227c8">7552394</a>: Fix Investigator runtime compatibility
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
