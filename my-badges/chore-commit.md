@@ -4,7 +4,7 @@
 
 Commits:
 
-- <a href="https://github.com/yadavanujkumar/athena-assurance-runtime/commit/731afb61a5612f60f02a19da2f2510a3cb07574d">731afb6</a>: chore: initialize ATHENA project
+- <a href="https://github.com/yadavanujkumar/dataingestion/commit/6f67a6b81e081b32251cacd2d031ea0984868087">6f67a6b</a>: chore: remove obsolete architecture and planning documentationdocx files
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
