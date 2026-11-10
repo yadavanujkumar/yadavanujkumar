@@ -59,7 +59,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"add\".",
-    "body": "My favorite commit message words are:\n\n1. add (used 401 times)\n2. merge (used 273 times)\n3. request (used 263 times)\n4. pull (used 259 times)\n5. update (used 182 times)",
+    "body": "My favorite commit message words are:\n\n1. add (used 402 times)\n2. update (used 183 times)\n3. ai) (used 154 times)\n4. readme (used 89 times)\n5. project (used 81 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -122,14 +122,14 @@
     "id": "sleepy-coder",
     "tier": 0,
     "desc": "I am a sleepy coder.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/yadavanujkumar/awesome-agentic-ai/commit/e33f81874d21eb0f1a6282268efbcb0109866432\">e33f818</a>\n- <a href=\"https://github.com/yadavanujkumar/awesome-agentic-ai/commit/ee581fd76301a7e7d5636c60e9a5dc1f79f05fa0\">ee581fd</a>\n- <a href=\"https://github.com/yadavanujkumar/awesome-agentic-ai/commit/f639697cbea40a4d0eb84b4fe7dd9d0eb1c03a02\">f639697</a>\n- <a href=\"https://github.com/yadavanujkumar/dataingestion/commit/6478dbdfbaf9bc047ef3fc743c86f77a2b173b91\">6478dbd</a>\n- <a href=\"https://github.com/yadavanujkumar/dataingestion/commit/ae4c73d0370fae863f382aadc7b9fa6b1a70ec4f\">ae4c73d</a>\n- <a href=\"https://github.com/yadavanujkumar/dataingestion/commit/225afc3d8d049bfb3f65c150e327f7f93e606c05\">225afc3</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/yadavanujkumar/awesome-agentic-ai/commit/1e6e24aca1b413a04c9e901bccacfc64a7e586ad\">1e6e24a</a>\n- <a href=\"https://github.com/yadavanujkumar/awesome-agentic-ai/commit/959c589590d6a12aa8e83dc6cd18fee12a36c8de\">959c589</a>\n- <a href=\"https://github.com/yadavanujkumar/awesome-agentic-ai/commit/e33f81874d21eb0f1a6282268efbcb0109866432\">e33f818</a>\n- <a href=\"https://github.com/yadavanujkumar/awesome-agentic-ai/commit/ee581fd76301a7e7d5636c60e9a5dc1f79f05fa0\">ee581fd</a>\n- <a href=\"https://github.com/yadavanujkumar/awesome-agentic-ai/commit/f639697cbea40a4d0eb84b4fe7dd9d0eb1c03a02\">f639697</a>\n- <a href=\"https://github.com/yadavanujkumar/dataingestion/commit/6478dbdfbaf9bc047ef3fc743c86f77a2b173b91\">6478dbd</a>",
     "image": "https://my-badges.github.io/my-badges/sleepy-coder.png"
   },
   {
     "id": "morning-commits",
     "tier": 0,
     "desc": "I commit in the morning.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/yadavanujkumar/athena-assurance-runtime/commit/811cd4f48b76bb0f58ca2751bd7e82c6fc9b8d9c\">811cd4f</a>\n- <a href=\"https://github.com/yadavanujkumar/gretex/commit/013bd4e7591b8c47b974805f67072a6cfb4760d1\">013bd4e</a>\n- <a href=\"https://github.com/yadavanujkumar/gretex/commit/5970b1ea023b9a03688016928f0170ca35a2884e\">5970b1e</a>\n- <a href=\"https://github.com/yadavanujkumar/gretex/commit/5340291a21a6921380cae205655a0e1d4311c0ff\">5340291</a>\n- <a href=\"https://github.com/yadavanujkumar/gretex/commit/1cad545ecd50efcdd432fdeb49a88ed3a3aed22e\">1cad545</a>\n- <a href=\"https://github.com/yadavanujkumar/gretex/commit/5ec54a1b4c4dc82129a45509ba42ffde08c64fad\">5ec54a1</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/yadavanujkumar/awesome-agentic-ai/commit/5ff5d5c9a8b9d69dcbeabd1f40bc3832a92a6e68\">5ff5d5c</a>\n- <a href=\"https://github.com/yadavanujkumar/awesome-agentic-ai/commit/909514e67f2e34df7d25fdaba8e61f9a002a9f2a\">909514e</a>\n- <a href=\"https://github.com/yadavanujkumar/athena-assurance-runtime/commit/811cd4f48b76bb0f58ca2751bd7e82c6fc9b8d9c\">811cd4f</a>\n- <a href=\"https://github.com/yadavanujkumar/gretex/commit/013bd4e7591b8c47b974805f67072a6cfb4760d1\">013bd4e</a>\n- <a href=\"https://github.com/yadavanujkumar/gretex/commit/5970b1ea023b9a03688016928f0170ca35a2884e\">5970b1e</a>\n- <a href=\"https://github.com/yadavanujkumar/gretex/commit/5340291a21a6921380cae205655a0e1d4311c0ff\">5340291</a>",
     "image": "https://my-badges.github.io/my-badges/morning-commits.png"
   },
   {
